@@ -1,1051 +1,1293 @@
-
-
 <!DOCTYPE html>
-<html lang="en-US">
-<head>
-	<meta charset="UTF-8">
-			<title>Up Viralização na ALTA &#8211; comprandoseguro.online</title>
-		<meta name="viewport" content="width=device-width, initial-scale=1" />
-<meta name='robots' content='max-image-preview:large' />
-<title>Up Viralização na ALTA &#8211; comprandoseguro.online</title>
-<link rel="alternate" type="application/rss+xml" title="comprandoseguro.online &raquo; Feed" href="https://comprandoseguro.online/feed/" />
-<link rel="alternate" type="application/rss+xml" title="comprandoseguro.online &raquo; Comments Feed" href="https://comprandoseguro.online/comments/feed/" />
-<script>
-window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/comprandoseguro.online\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.5.2"}};
-/*! This file is auto-generated */
-!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83d\udc26\u200d\u2b1b","\ud83d\udc26\u200b\u2b1b")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
-</script>
-<style id='wp-emoji-styles-inline-css'>
-
-	img.wp-smiley, img.emoji {
-		display: inline !important;
-		border: none !important;
-		box-shadow: none !important;
-		height: 1em !important;
-		width: 1em !important;
-		margin: 0 0.07em !important;
-		vertical-align: -0.1em !important;
-		background: none !important;
-		padding: 0 !important;
-	}
-</style>
-<style id='wp-block-library-inline-css'>
-:root{--wp-admin-theme-color:#007cba;--wp-admin-theme-color--rgb:0,124,186;--wp-admin-theme-color-darker-10:#006ba1;--wp-admin-theme-color-darker-10--rgb:0,107,161;--wp-admin-theme-color-darker-20:#005a87;--wp-admin-theme-color-darker-20--rgb:0,90,135;--wp-admin-border-width-focus:2px;--wp-block-synced-color:#7a00df;--wp-block-synced-color--rgb:122,0,223;--wp-bound-block-color:#9747ff}@media (min-resolution:192dpi){:root{--wp-admin-border-width-focus:1.5px}}.wp-element-button{cursor:pointer}:root{--wp--preset--font-size--normal:16px;--wp--preset--font-size--huge:42px}:root .has-very-light-gray-background-color{background-color:#eee}:root .has-very-dark-gray-background-color{background-color:#313131}:root .has-very-light-gray-color{color:#eee}:root .has-very-dark-gray-color{color:#313131}:root .has-vivid-green-cyan-to-vivid-cyan-blue-gradient-background{background:linear-gradient(135deg,#00d084,#0693e3)}:root .has-purple-crush-gradient-background{background:linear-gradient(135deg,#34e2e4,#4721fb 50%,#ab1dfe)}:root .has-hazy-dawn-gradient-background{background:linear-gradient(135deg,#faaca8,#dad0ec)}:root .has-subdued-olive-gradient-background{background:linear-gradient(135deg,#fafae1,#67a671)}:root .has-atomic-cream-gradient-background{background:linear-gradient(135deg,#fdd79a,#004a59)}:root .has-nightshade-gradient-background{background:linear-gradient(135deg,#330968,#31cdcf)}:root .has-midnight-gradient-background{background:linear-gradient(135deg,#020381,#2874fc)}.has-regular-font-size{font-size:1em}.has-larger-font-size{font-size:2.625em}.has-normal-font-size{font-size:var(--wp--preset--font-size--normal)}.has-huge-font-size{font-size:var(--wp--preset--font-size--huge)}.has-text-align-center{text-align:center}.has-text-align-left{text-align:left}.has-text-align-right{text-align:right}#end-resizable-editor-section{display:none}.aligncenter{clear:both}.items-justified-left{justify-content:flex-start}.items-justified-center{justify-content:center}.items-justified-right{justify-content:flex-end}.items-justified-space-between{justify-content:space-between}.screen-reader-text{border:0;clip:rect(1px,1px,1px,1px);-webkit-clip-path:inset(50%);clip-path:inset(50%);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;word-wrap:normal!important}.screen-reader-text:focus{background-color:#ddd;clip:auto!important;-webkit-clip-path:none;clip-path:none;color:#444;display:block;font-size:1em;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}html :where(.has-border-color){border-style:solid}html :where([style*=border-top-color]){border-top-style:solid}html :where([style*=border-right-color]){border-right-style:solid}html :where([style*=border-bottom-color]){border-bottom-style:solid}html :where([style*=border-left-color]){border-left-style:solid}html :where([style*=border-width]){border-style:solid}html :where([style*=border-top-width]){border-top-style:solid}html :where([style*=border-right-width]){border-right-style:solid}html :where([style*=border-bottom-width]){border-bottom-style:solid}html :where([style*=border-left-width]){border-left-style:solid}html :where(img[class*=wp-image-]){height:auto;max-width:100%}:where(figure){margin:0 0 1em}html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:var(--wp-admin--admin-bar--height,0px)}@media screen and (max-width:600px){html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:0px}}
-</style>
-<style id='global-styles-inline-css'>
-body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--base: #f9f9f9;--wp--preset--color--base-2: #ffffff;--wp--preset--color--contrast: #111111;--wp--preset--color--contrast-2: #636363;--wp--preset--color--contrast-3: #A4A4A4;--wp--preset--color--accent: #cfcabe;--wp--preset--color--accent-2: #c2a990;--wp--preset--color--accent-3: #d8613c;--wp--preset--color--accent-4: #b1c5a4;--wp--preset--color--accent-5: #b5bdbc;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--gradient--gradient-1: linear-gradient(to bottom, #cfcabe 0%, #F9F9F9 100%);--wp--preset--gradient--gradient-2: linear-gradient(to bottom, #C2A990 0%, #F9F9F9 100%);--wp--preset--gradient--gradient-3: linear-gradient(to bottom, #D8613C 0%, #F9F9F9 100%);--wp--preset--gradient--gradient-4: linear-gradient(to bottom, #B1C5A4 0%, #F9F9F9 100%);--wp--preset--gradient--gradient-5: linear-gradient(to bottom, #B5BDBC 0%, #F9F9F9 100%);--wp--preset--gradient--gradient-6: linear-gradient(to bottom, #A4A4A4 0%, #F9F9F9 100%);--wp--preset--gradient--gradient-7: linear-gradient(to bottom, #cfcabe 50%, #F9F9F9 50%);--wp--preset--gradient--gradient-8: linear-gradient(to bottom, #C2A990 50%, #F9F9F9 50%);--wp--preset--gradient--gradient-9: linear-gradient(to bottom, #D8613C 50%, #F9F9F9 50%);--wp--preset--gradient--gradient-10: linear-gradient(to bottom, #B1C5A4 50%, #F9F9F9 50%);--wp--preset--gradient--gradient-11: linear-gradient(to bottom, #B5BDBC 50%, #F9F9F9 50%);--wp--preset--gradient--gradient-12: linear-gradient(to bottom, #A4A4A4 50%, #F9F9F9 50%);--wp--preset--font-size--small: 0.9rem;--wp--preset--font-size--medium: 1.05rem;--wp--preset--font-size--large: clamp(1.39rem, 1.39rem + ((1vw - 0.2rem) * 0.767), 1.85rem);--wp--preset--font-size--x-large: clamp(1.85rem, 1.85rem + ((1vw - 0.2rem) * 1.083), 2.5rem);--wp--preset--font-size--xx-large: clamp(2.5rem, 2.5rem + ((1vw - 0.2rem) * 1.283), 3.27rem);--wp--preset--font-family--body: "Inter", sans-serif;--wp--preset--font-family--heading: Cardo;--wp--preset--font-family--system-sans-serif: -apple-system, BlinkMacSystemFont, avenir next, avenir, segoe ui, helvetica neue, helvetica, Cantarell, Ubuntu, roboto, noto, arial, sans-serif;--wp--preset--font-family--system-serif: Iowan Old Style, Apple Garamond, Baskerville, Times New Roman, Droid Serif, Times, Source Serif Pro, serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;--wp--preset--spacing--10: 1rem;--wp--preset--spacing--20: min(1.5rem, 2vw);--wp--preset--spacing--30: min(2.5rem, 3vw);--wp--preset--spacing--40: min(4rem, 5vw);--wp--preset--spacing--50: min(6.5rem, 8vw);--wp--preset--spacing--60: min(10.5rem, 13vw);--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}body { margin: 0;--wp--style--global--content-size: 620px;--wp--style--global--wide-size: 1280px; }.wp-site-blocks { padding-top: var(--wp--style--root--padding-top); padding-bottom: var(--wp--style--root--padding-bottom); }.has-global-padding { padding-right: var(--wp--style--root--padding-right); padding-left: var(--wp--style--root--padding-left); }.has-global-padding :where(.has-global-padding:not(.wp-block-block)) { padding-right: 0; padding-left: 0; }.has-global-padding > .alignfull { margin-right: calc(var(--wp--style--root--padding-right) * -1); margin-left: calc(var(--wp--style--root--padding-left) * -1); }.has-global-padding :where(.has-global-padding:not(.wp-block-block)) > .alignfull { margin-right: 0; margin-left: 0; }.has-global-padding > .alignfull:where(:not(.has-global-padding):not(.is-layout-flex):not(.is-layout-grid)) > :where([class*="wp-block-"]:not(.alignfull):not([class*="__"]),p,h1,h2,h3,h4,h5,h6,ul,ol) { padding-right: var(--wp--style--root--padding-right); padding-left: var(--wp--style--root--padding-left); }.has-global-padding :where(.has-global-padding) > .alignfull:where(:not(.has-global-padding)) > :where([class*="wp-block-"]:not(.alignfull):not([class*="__"]),p,h1,h2,h3,h4,h5,h6,ul,ol) { padding-right: 0; padding-left: 0; }.wp-site-blocks > .alignleft { float: left; margin-right: 2em; }.wp-site-blocks > .alignright { float: right; margin-left: 2em; }.wp-site-blocks > .aligncenter { justify-content: center; margin-left: auto; margin-right: auto; }:where(.wp-site-blocks) > * { margin-block-start: 1.2rem; margin-block-end: 0; }:where(.wp-site-blocks) > :first-child:first-child { margin-block-start: 0; }:where(.wp-site-blocks) > :last-child:last-child { margin-block-end: 0; }body { --wp--style--block-gap: 1.2rem; }:where(body .is-layout-flow)  > :first-child:first-child{margin-block-start: 0;}:where(body .is-layout-flow)  > :last-child:last-child{margin-block-end: 0;}:where(body .is-layout-flow)  > *{margin-block-start: 1.2rem;margin-block-end: 0;}:where(body .is-layout-constrained)  > :first-child:first-child{margin-block-start: 0;}:where(body .is-layout-constrained)  > :last-child:last-child{margin-block-end: 0;}:where(body .is-layout-constrained)  > *{margin-block-start: 1.2rem;margin-block-end: 0;}:where(body .is-layout-flex) {gap: 1.2rem;}:where(body .is-layout-grid) {gap: 1.2rem;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}body{background-color: var(--wp--preset--color--base);color: var(--wp--preset--color--contrast);font-family: var(--wp--preset--font-family--body);font-size: var(--wp--preset--font-size--medium);font-style: normal;font-weight: 400;line-height: 1.55;--wp--style--root--padding-top: 0px;--wp--style--root--padding-right: var(--wp--preset--spacing--50);--wp--style--root--padding-bottom: 0px;--wp--style--root--padding-left: var(--wp--preset--spacing--50);}a:where(:not(.wp-element-button)){color: var(--wp--preset--color--contrast);text-decoration: underline;}a:where(:not(.wp-element-button)):hover{text-decoration: none;}h1, h2, h3, h4, h5, h6{color: var(--wp--preset--color--contrast);font-family: var(--wp--preset--font-family--heading);font-weight: 400;line-height: 1.2;}h1{font-size: var(--wp--preset--font-size--xx-large);line-height: 1.15;}h2{font-size: var(--wp--preset--font-size--x-large);}h3{font-size: var(--wp--preset--font-size--large);}h4{font-size: clamp(1.1rem, 1.1rem + ((1vw - 0.2rem) * 0.767), 1.5rem);}h5{font-size: var(--wp--preset--font-size--medium);}h6{font-size: var(--wp--preset--font-size--small);}.wp-element-button, .wp-block-button__link{background-color: var(--wp--preset--color--contrast);border-radius: .33rem;border-color: var(--wp--preset--color--contrast);border-width: 0;color: var(--wp--preset--color--base);font-family: inherit;font-size: var(--wp--preset--font-size--small);font-style: normal;font-weight: 500;line-height: inherit;padding-top: 0.6rem;padding-right: 1rem;padding-bottom: 0.6rem;padding-left: 1rem;text-decoration: none;}.wp-element-button:hover, .wp-block-button__link:hover{background-color: var(--wp--preset--color--contrast-2);border-color: var(--wp--preset--color--contrast-2);color: var(--wp--preset--color--base);}.wp-element-button:focus, .wp-block-button__link:focus{background-color: var(--wp--preset--color--contrast-2);border-color: var(--wp--preset--color--contrast-2);color: var(--wp--preset--color--base);outline-color: var(--wp--preset--color--contrast);outline-offset: 2px;}.wp-element-button:active, .wp-block-button__link:active{background-color: var(--wp--preset--color--contrast);color: var(--wp--preset--color--base);}.wp-element-caption, .wp-block-audio figcaption, .wp-block-embed figcaption, .wp-block-gallery figcaption, .wp-block-image figcaption, .wp-block-table figcaption, .wp-block-video figcaption{color: var(--wp--preset--color--contrast-2);font-family: var(--wp--preset--font-family--body);font-size: 0.8rem;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-base-color{color: var(--wp--preset--color--base) !important;}.has-base-2-color{color: var(--wp--preset--color--base-2) !important;}.has-contrast-color{color: var(--wp--preset--color--contrast) !important;}.has-contrast-2-color{color: var(--wp--preset--color--contrast-2) !important;}.has-contrast-3-color{color: var(--wp--preset--color--contrast-3) !important;}.has-accent-color{color: var(--wp--preset--color--accent) !important;}.has-accent-2-color{color: var(--wp--preset--color--accent-2) !important;}.has-accent-3-color{color: var(--wp--preset--color--accent-3) !important;}.has-accent-4-color{color: var(--wp--preset--color--accent-4) !important;}.has-accent-5-color{color: var(--wp--preset--color--accent-5) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-base-background-color{background-color: var(--wp--preset--color--base) !important;}.has-base-2-background-color{background-color: var(--wp--preset--color--base-2) !important;}.has-contrast-background-color{background-color: var(--wp--preset--color--contrast) !important;}.has-contrast-2-background-color{background-color: var(--wp--preset--color--contrast-2) !important;}.has-contrast-3-background-color{background-color: var(--wp--preset--color--contrast-3) !important;}.has-accent-background-color{background-color: var(--wp--preset--color--accent) !important;}.has-accent-2-background-color{background-color: var(--wp--preset--color--accent-2) !important;}.has-accent-3-background-color{background-color: var(--wp--preset--color--accent-3) !important;}.has-accent-4-background-color{background-color: var(--wp--preset--color--accent-4) !important;}.has-accent-5-background-color{background-color: var(--wp--preset--color--accent-5) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-base-border-color{border-color: var(--wp--preset--color--base) !important;}.has-base-2-border-color{border-color: var(--wp--preset--color--base-2) !important;}.has-contrast-border-color{border-color: var(--wp--preset--color--contrast) !important;}.has-contrast-2-border-color{border-color: var(--wp--preset--color--contrast-2) !important;}.has-contrast-3-border-color{border-color: var(--wp--preset--color--contrast-3) !important;}.has-accent-border-color{border-color: var(--wp--preset--color--accent) !important;}.has-accent-2-border-color{border-color: var(--wp--preset--color--accent-2) !important;}.has-accent-3-border-color{border-color: var(--wp--preset--color--accent-3) !important;}.has-accent-4-border-color{border-color: var(--wp--preset--color--accent-4) !important;}.has-accent-5-border-color{border-color: var(--wp--preset--color--accent-5) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-gradient-1-gradient-background{background: var(--wp--preset--gradient--gradient-1) !important;}.has-gradient-2-gradient-background{background: var(--wp--preset--gradient--gradient-2) !important;}.has-gradient-3-gradient-background{background: var(--wp--preset--gradient--gradient-3) !important;}.has-gradient-4-gradient-background{background: var(--wp--preset--gradient--gradient-4) !important;}.has-gradient-5-gradient-background{background: var(--wp--preset--gradient--gradient-5) !important;}.has-gradient-6-gradient-background{background: var(--wp--preset--gradient--gradient-6) !important;}.has-gradient-7-gradient-background{background: var(--wp--preset--gradient--gradient-7) !important;}.has-gradient-8-gradient-background{background: var(--wp--preset--gradient--gradient-8) !important;}.has-gradient-9-gradient-background{background: var(--wp--preset--gradient--gradient-9) !important;}.has-gradient-10-gradient-background{background: var(--wp--preset--gradient--gradient-10) !important;}.has-gradient-11-gradient-background{background: var(--wp--preset--gradient--gradient-11) !important;}.has-gradient-12-gradient-background{background: var(--wp--preset--gradient--gradient-12) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}.has-xx-large-font-size{font-size: var(--wp--preset--font-size--xx-large) !important;}.has-body-font-family{font-family: var(--wp--preset--font-family--body) !important;}.has-heading-font-family{font-family: var(--wp--preset--font-family--heading) !important;}.has-system-sans-serif-font-family{font-family: var(--wp--preset--font-family--system-sans-serif) !important;}.has-system-serif-font-family{font-family: var(--wp--preset--font-family--system-serif) !important;}
-:where(.wp-site-blocks *:focus){outline-width:2px;outline-style:solid}.wp-block-calendar.wp-block-calendar table:where(:not(.has-text-color)) th{background-color:var(--wp--preset--color--contrast-2);color:var(--wp--preset--color--base);border-color:var(--wp--preset--color--contrast-2)}.wp-block-calendar table:where(:not(.has-text-color)) td{border-color:var(--wp--preset--color--contrast-2)}.wp-block-categories{}.wp-block-categories{list-style-type:none;}.wp-block-categories li{margin-bottom: 0.5rem;}.wp-block-post-comments-form{}.wp-block-post-comments-form textarea, .wp-block-post-comments-form input{border-radius:.33rem}.wp-block-loginout{}.wp-block-loginout input{border-radius:.33rem;padding:calc(0.667em + 2px);border:1px solid #949494;}.wp-block-post-terms{}.wp-block-post-terms .wp-block-post-terms__prefix{color: var(--wp--preset--color--contrast-2);}.wp-block-query-title{}.wp-block-query-title span{font-style: italic;}.wp-block-quote{}.wp-block-quote :where(p){margin-block-start:0;margin-block-end:calc(var(--wp--preset--spacing--10) + 0.5rem);}.wp-block-quote :where(:last-child){margin-block-end:0;}.wp-block-quote.has-text-align-right.is-style-plain, .rtl .is-style-plain.wp-block-quote:not(.has-text-align-center):not(.has-text-align-left){border-width: 0 2px 0 0;padding-left:calc(var(--wp--preset--spacing--20) + 0.5rem);padding-right:calc(var(--wp--preset--spacing--20) + 0.5rem);}.wp-block-quote.has-text-align-left.is-style-plain, body:not(.rtl) .is-style-plain.wp-block-quote:not(.has-text-align-center):not(.has-text-align-right){border-width: 0 0 0 2px;padding-left:calc(var(--wp--preset--spacing--20) + 0.5rem);padding-right:calc(var(--wp--preset--spacing--20) + 0.5rem)}.wp-block-search{}.wp-block-search .wp-block-search__input{border-radius:.33rem}.wp-block-separator{}.wp-block-separator:not(.is-style-wide):not(.is-style-dots):not(.alignwide):not(.alignfull){width: var(--wp--preset--spacing--60)}
-</style>
-<style id='wp-block-template-skip-link-inline-css'>
-
-		.skip-link.screen-reader-text {
-			border: 0;
-			clip: rect(1px,1px,1px,1px);
-			clip-path: inset(50%);
-			height: 1px;
-			margin: -1px;
-			overflow: hidden;
-			padding: 0;
-			position: absolute !important;
-			width: 1px;
-			word-wrap: normal !important;
-		}
-
-		.skip-link.screen-reader-text:focus {
-			background-color: #eee;
-			clip: auto !important;
-			clip-path: none;
-			color: #444;
-			display: block;
-			font-size: 1em;
-			height: auto;
-			left: 5px;
-			line-height: normal;
-			padding: 15px 23px 14px;
-			text-decoration: none;
-			top: 5px;
-			width: auto;
-			z-index: 100000;
-		}
-</style>
-<link rel='stylesheet' id='elementor-frontend-css' href='https://comprandoseguro.online/wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.20.3' media='all' />
-<link rel='stylesheet' id='swiper-css' href='https://comprandoseguro.online/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5' media='all' />
-<link rel='stylesheet' id='elementor-post-17-css' href='https://comprandoseguro.online/wp-content/uploads/elementor/css/post-17.css?ver=1712579834' media='all' />
-<link rel='stylesheet' id='elementor-pro-css' href='https://comprandoseguro.online/wp-content/plugins/elementor-pro/assets/css/frontend-lite.min.css?ver=3.7.3' media='all' />
-<link rel='stylesheet' id='elementor-global-css' href='https://comprandoseguro.online/wp-content/uploads/elementor/css/global.css?ver=1712579960' media='all' />
-<link rel='stylesheet' id='elementor-post-112-css' href='https://comprandoseguro.online/wp-content/uploads/elementor/css/post-112.css?ver=1712926840' media='all' />
-<link rel='stylesheet' id='google-fonts-1-css' href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CSora%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CMontserrat%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=swap&#038;ver=6.5.2' media='all' />
-<link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin><link rel="https://api.w.org/" href="https://comprandoseguro.online/wp-json/" /><link rel="alternate" type="application/json" href="https://comprandoseguro.online/wp-json/wp/v2/pages/112" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://comprandoseguro.online/xmlrpc.php?rsd" />
-<meta name="generator" content="WordPress 6.5.2" />
-<link rel="canonical" href="https://comprandoseguro.online/up-viralizacao-na-alta/" />
-<link rel='shortlink' href='https://comprandoseguro.online/?p=112' />
-<link rel="alternate" type="application/json+oembed" href="https://comprandoseguro.online/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcomprandoseguro.online%2Fup-viralizacao-na-alta%2F" />
-<link rel="alternate" type="text/xml+oembed" href="https://comprandoseguro.online/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcomprandoseguro.online%2Fup-viralizacao-na-alta%2F&#038;format=xml" />
-<!-- HFCM by 99 Robots - Snippet # 2: Meta Pixel Viralização na alta -->
-<!-- Meta Pixel Code -->
-<script>
-!function(f,b,e,v,n,t,s)
-{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-n.callMethod.apply(n,arguments):n.queue.push(arguments)};
-if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
-n.queue=[];t=b.createElement(e);t.async=!0;
-t.src=v;s=b.getElementsByTagName(e)[0];
-s.parentNode.insertBefore(t,s)}(window, document,'script',
-'https://connect.facebook.net/en_US/fbevents.js');
-fbq('init', '814897100671249');
-fbq('track', 'PageView');
-</script>
-<noscript><img height="1" width="1" style="display:none"
-src="https://www.facebook.com/tr?id=814897100671249&ev=PageView&noscript=1"
-/></noscript>
-<!-- End Meta Pixel Code -->
-<!-- /end HFCM by 99 Robots -->
-<!-- HFCM by 99 Robots - Snippet # 3: TikTok Pixel Viralização na ALTA -->
-<script>
-!function (w, d, t) {
-  w.TiktokAnalyticsObject=t;var ttq=w[t]=w[t]||[];ttq.methods=["page","track","identify","instances","debug","on","off","once","ready","alias","group","enableCookie","disableCookie"],ttq.setAndDefer=function(t,e){t[e]=function(){t.push([e].concat(Array.prototype.slice.call(arguments,0)))}};for(var i=0;i<ttq.methods.length;i++)ttq.setAndDefer(ttq,ttq.methods[i]);ttq.instance=function(t){for(var e=ttq._i[t]||[],n=0;n<ttq.methods.length;n++)ttq.setAndDefer(e,ttq.methods[n]);return e},ttq.load=function(e,n){var i="https://analytics.tiktok.com/i18n/pixel/events.js";ttq._i=ttq._i||{},ttq._i[e]=[],ttq._i[e]._u=i,ttq._t=ttq._t||{},ttq._t[e]=+new Date,ttq._o=ttq._o||{},ttq._o[e]=n||{};var o=document.createElement("script");o.type="text/javascript",o.async=!0,o.src=i+"?sdkid="+e+"&lib="+t;var a=document.getElementsByTagName("script")[0];a.parentNode.insertBefore(o,a)};
-
-  ttq.load('COFBRJ3C77U0PSRTVTPG');
-  ttq.page();
-}(window, document, 'ttq');
-</script>
-<!-- /end HFCM by 99 Robots -->
-<!-- cookies on header --><!-- cookies on header --><meta name="generator" content="Elementor 3.20.3; features: e_optimized_assets_loading, e_optimized_css_loading, e_font_icon_svg, additional_custom_breakpoints, block_editor_assets_optimize, e_image_loading_optimization; settings: css_print_method-external, google_font-enabled, font_display-swap">
-<style id='wp-fonts-local'>
-@font-face{font-family:Inter;font-style:normal;font-weight:300 900;font-display:fallback;src:url('https://comprandoseguro.online/wp-content/themes/twentytwentyfour/assets/fonts/inter/Inter-VariableFont_slnt,wght.woff2') format('woff2');font-stretch:normal;}
-@font-face{font-family:Cardo;font-style:normal;font-weight:400;font-display:fallback;src:url('https://comprandoseguro.online/wp-content/themes/twentytwentyfour/assets/fonts/cardo/cardo_normal_400.woff2') format('woff2');}
-@font-face{font-family:Cardo;font-style:italic;font-weight:400;font-display:fallback;src:url('https://comprandoseguro.online/wp-content/themes/twentytwentyfour/assets/fonts/cardo/cardo_italic_400.woff2') format('woff2');}
-@font-face{font-family:Cardo;font-style:normal;font-weight:700;font-display:fallback;src:url('https://comprandoseguro.online/wp-content/themes/twentytwentyfour/assets/fonts/cardo/cardo_normal_700.woff2') format('woff2');}
-</style>
-	<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" /></head>
-<body class="page-template page-template-elementor_canvas page page-id-112 wp-embed-responsive elementor-default elementor-template-canvas elementor-kit-17 elementor-page elementor-page-112">
-			<div data-elementor-type="wp-page" data-elementor-id="112" class="elementor elementor-112">
-				<div class="elementor-element elementor-element-7f5d8019 e-flex e-con-boxed e-con e-parent" data-id="7f5d8019" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}" data-core-v316-plus="true">
-					<div class="e-con-inner">
-				<div class="elementor-element elementor-element-75bff872 elementor-widget elementor-widget-heading" data-id="75bff872" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<style>/*! elementor - v3.20.0 - 26-03-2024 */
-.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style><h2 class="elementor-heading-title elementor-size-default">DESCONTO ESPECIAL LIBERADO!</h2>		</div>
-				</div>
-					</div>
-				</div>
-		<div class="elementor-element elementor-element-389a030 e-flex e-con-boxed e-con e-parent" data-id="389a030" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}" data-core-v316-plus="true">
-					<div class="e-con-inner">
-		<div class="elementor-element elementor-element-5c347c66 e-con-full e-flex e-con e-child" data-id="5c347c66" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-				<div class="elementor-element elementor-element-34781ea elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="34781ea" data-element_type="widget" data-widget_type="divider.default">
-				<div class="elementor-widget-container">
-			<style>/*! elementor - v3.20.0 - 26-03-2024 */
-.elementor-widget-divider{--divider-border-style:none;--divider-border-width:1px;--divider-color:#0c0d0e;--divider-icon-size:20px;--divider-element-spacing:10px;--divider-pattern-height:24px;--divider-pattern-size:20px;--divider-pattern-url:none;--divider-pattern-repeat:repeat-x}.elementor-widget-divider .elementor-divider{display:flex}.elementor-widget-divider .elementor-divider__text{font-size:15px;line-height:1;max-width:95%}.elementor-widget-divider .elementor-divider__element{margin:0 var(--divider-element-spacing);flex-shrink:0}.elementor-widget-divider .elementor-icon{font-size:var(--divider-icon-size)}.elementor-widget-divider .elementor-divider-separator{display:flex;margin:0;direction:ltr}.elementor-widget-divider--view-line_icon .elementor-divider-separator,.elementor-widget-divider--view-line_text .elementor-divider-separator{align-items:center}.elementor-widget-divider--view-line_icon .elementor-divider-separator:after,.elementor-widget-divider--view-line_icon .elementor-divider-separator:before,.elementor-widget-divider--view-line_text .elementor-divider-separator:after,.elementor-widget-divider--view-line_text .elementor-divider-separator:before{display:block;content:"";border-block-end:0;flex-grow:1;border-block-start:var(--divider-border-width) var(--divider-border-style) var(--divider-color)}.elementor-widget-divider--element-align-left .elementor-divider .elementor-divider-separator>.elementor-divider__svg:first-of-type{flex-grow:0;flex-shrink:100}.elementor-widget-divider--element-align-left .elementor-divider-separator:before{content:none}.elementor-widget-divider--element-align-left .elementor-divider__element{margin-left:0}.elementor-widget-divider--element-align-right .elementor-divider .elementor-divider-separator>.elementor-divider__svg:last-of-type{flex-grow:0;flex-shrink:100}.elementor-widget-divider--element-align-right .elementor-divider-separator:after{content:none}.elementor-widget-divider--element-align-right .elementor-divider__element{margin-right:0}.elementor-widget-divider--element-align-start .elementor-divider .elementor-divider-separator>.elementor-divider__svg:first-of-type{flex-grow:0;flex-shrink:100}.elementor-widget-divider--element-align-start .elementor-divider-separator:before{content:none}.elementor-widget-divider--element-align-start .elementor-divider__element{margin-inline-start:0}.elementor-widget-divider--element-align-end .elementor-divider .elementor-divider-separator>.elementor-divider__svg:last-of-type{flex-grow:0;flex-shrink:100}.elementor-widget-divider--element-align-end .elementor-divider-separator:after{content:none}.elementor-widget-divider--element-align-end .elementor-divider__element{margin-inline-end:0}.elementor-widget-divider:not(.elementor-widget-divider--view-line_text):not(.elementor-widget-divider--view-line_icon) .elementor-divider-separator{border-block-start:var(--divider-border-width) var(--divider-border-style) var(--divider-color)}.elementor-widget-divider--separator-type-pattern{--divider-border-style:none}.elementor-widget-divider--separator-type-pattern.elementor-widget-divider--view-line .elementor-divider-separator,.elementor-widget-divider--separator-type-pattern:not(.elementor-widget-divider--view-line) .elementor-divider-separator:after,.elementor-widget-divider--separator-type-pattern:not(.elementor-widget-divider--view-line) .elementor-divider-separator:before,.elementor-widget-divider--separator-type-pattern:not([class*=elementor-widget-divider--view]) .elementor-divider-separator{width:100%;min-height:var(--divider-pattern-height);-webkit-mask-size:var(--divider-pattern-size) 100%;mask-size:var(--divider-pattern-size) 100%;-webkit-mask-repeat:var(--divider-pattern-repeat);mask-repeat:var(--divider-pattern-repeat);background-color:var(--divider-color);-webkit-mask-image:var(--divider-pattern-url);mask-image:var(--divider-pattern-url)}.elementor-widget-divider--no-spacing{--divider-pattern-size:auto}.elementor-widget-divider--bg-round{--divider-pattern-repeat:round}.rtl .elementor-widget-divider .elementor-divider__text{direction:rtl}.e-con-inner>.elementor-widget-divider,.e-con>.elementor-widget-divider{width:var(--container-widget-width,100%);--flex-grow:var(--container-widget-flex-grow)}</style>		<div class="elementor-divider">
-			<span class="elementor-divider-separator">
-						</span>
-		</div>
-				</div>
-				</div>
-				<div class="elementor-element elementor-element-4e0cb640 elementor-widget elementor-widget-heading" data-id="4e0cb640" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">Espere!<br>
-Temos uma Oferta Especial de</h2>		</div>
-				</div>
-				<div class="elementor-element elementor-element-77361e6d elementor-widget elementor-widget-heading" data-id="77361e6d" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">Upgrade de <br>Plano!</h2>		</div>
-				</div>
-				<div class="elementor-element elementor-element-7453dd9e elementor-headline--style-highlight elementor-widget elementor-widget-animated-headline" data-id="7453dd9e" data-element_type="widget" data-settings="{&quot;highlighted_text&quot;:&quot;   R$ 139,90&quot;,&quot;marker&quot;:&quot;strikethrough&quot;,&quot;headline_style&quot;:&quot;highlight&quot;,&quot;loop&quot;:&quot;yes&quot;,&quot;highlight_animation_duration&quot;:1200,&quot;highlight_iteration_delay&quot;:8000}" data-widget_type="animated-headline.default">
-				<div class="elementor-widget-container">
-			<link rel="stylesheet" href="https://comprandoseguro.online/wp-content/plugins/elementor-pro/assets/css/widget-animated-headline.min.css">		<h2 class="elementor-headline">
-					<span class="elementor-headline-plain-text elementor-headline-text-wrapper">Preço normal:                          </span>
-				<span class="elementor-headline-dynamic-wrapper elementor-headline-text-wrapper">
-					<span class="elementor-headline-dynamic-text elementor-headline-text-active">   R$ 139,90</span>
-				</span>
-				</h2>
-				</div>
-				</div>
-				<div class="elementor-element elementor-element-7abcaa86 elementor-widget elementor-widget-heading" data-id="7abcaa86" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">Preço Promocional Nessa Página: <b>R$9,90</b></h2>		</div>
-				</div>
-				</div>
-					</div>
-				</div>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-2fd7cac3 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2fd7cac3" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-6e096e9a" data-id="6e096e9a" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-						<section class="elementor-section elementor-inner-section elementor-element elementor-element-1e1f7684 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="1e1f7684" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-236e3d68" data-id="236e3d68" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-			<div class="elementor-widget-wrap elementor-element-populated">
-					<div class="elementor-background-overlay"></div>
-						<div class="elementor-element elementor-element-665b30c1 elementor-widget-mobile__width-initial elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="665b30c1" data-element_type="widget" data-widget_type="icon-list.default">
-				<div class="elementor-widget-container">
-			<link rel="stylesheet" href="https://comprandoseguro.online/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css">		<ul class="elementor-icon-list-items">
-							<li class="elementor-icon-list-item">
-											<span class="elementor-icon-list-icon">
-							<svg aria-hidden="true" class="e-font-icon-svg e-far-arrow-alt-circle-right" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M504 256C504 119 393 8 256 8S8 119 8 256s111 248 248 248 248-111 248-248zm-448 0c0-110.5 89.5-200 200-200s200 89.5 200 200-89.5 200-200 200S56 366.5 56 256zm72 20v-40c0-6.6 5.4-12 12-12h116v-67c0-10.7 12.9-16 20.5-8.5l99 99c4.7 4.7 4.7 12.3 0 17l-99 99c-7.6 7.6-20.5 2.2-20.5-8.5v-67H140c-6.6 0-12-5.4-12-12z"></path></svg>						</span>
-										<span class="elementor-icon-list-text">Acesso Completo: +2000 vídeos altamente virais</span>
-									</li>
-								<li class="elementor-icon-list-item">
-											<span class="elementor-icon-list-icon">
-							<svg aria-hidden="true" class="e-font-icon-svg e-far-arrow-alt-circle-right" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M504 256C504 119 393 8 256 8S8 119 8 256s111 248 248 248 248-111 248-248zm-448 0c0-110.5 89.5-200 200-200s200 89.5 200 200-89.5 200-200 200S56 366.5 56 256zm72 20v-40c0-6.6 5.4-12 12-12h116v-67c0-10.7 12.9-16 20.5-8.5l99 99c4.7 4.7 4.7 12.3 0 17l-99 99c-7.6 7.6-20.5 2.2-20.5-8.5v-67H140c-6.6 0-12-5.4-12-12z"></path></svg>						</span>
-										<span class="elementor-icon-list-text">+800 cortes Pablo Marçal</span>
-									</li>
-								<li class="elementor-icon-list-item">
-											<span class="elementor-icon-list-icon">
-							<svg aria-hidden="true" class="e-font-icon-svg e-far-arrow-alt-circle-right" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M504 256C504 119 393 8 256 8S8 119 8 256s111 248 248 248 248-111 248-248zm-448 0c0-110.5 89.5-200 200-200s200 89.5 200 200-89.5 200-200 200S56 366.5 56 256zm72 20v-40c0-6.6 5.4-12 12-12h116v-67c0-10.7 12.9-16 20.5-8.5l99 99c4.7 4.7 4.7 12.3 0 17l-99 99c-7.6 7.6-20.5 2.2-20.5-8.5v-67H140c-6.6 0-12-5.4-12-12z"></path></svg>						</span>
-										<span class="elementor-icon-list-text">+80 cortes de Podcast</span>
-									</li>
-								<li class="elementor-icon-list-item">
-											<span class="elementor-icon-list-icon">
-							<svg aria-hidden="true" class="e-font-icon-svg e-far-arrow-alt-circle-right" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M504 256C504 119 393 8 256 8S8 119 8 256s111 248 248 248 248-111 248-248zm-448 0c0-110.5 89.5-200 200-200s200 89.5 200 200-89.5 200-200 200S56 366.5 56 256zm72 20v-40c0-6.6 5.4-12 12-12h116v-67c0-10.7 12.9-16 20.5-8.5l99 99c4.7 4.7 4.7 12.3 0 17l-99 99c-7.6 7.6-20.5 2.2-20.5-8.5v-67H140c-6.6 0-12-5.4-12-12z"></path></svg>						</span>
-										<span class="elementor-icon-list-text">+400 vídeos LifeStyle Milionário</span>
-									</li>
-								<li class="elementor-icon-list-item">
-											<span class="elementor-icon-list-icon">
-							<svg aria-hidden="true" class="e-font-icon-svg e-far-arrow-alt-circle-right" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M504 256C504 119 393 8 256 8S8 119 8 256s111 248 248 248 248-111 248-248zm-448 0c0-110.5 89.5-200 200-200s200 89.5 200 200-89.5 200-200 200S56 366.5 56 256zm72 20v-40c0-6.6 5.4-12 12-12h116v-67c0-10.7 12.9-16 20.5-8.5l99 99c4.7 4.7 4.7 12.3 0 17l-99 99c-7.6 7.6-20.5 2.2-20.5-8.5v-67H140c-6.6 0-12-5.4-12-12z"></path></svg>						</span>
-										<span class="elementor-icon-list-text">+200 vídeos de ALTA qualidade de Filmes</span>
-									</li>
-								<li class="elementor-icon-list-item">
-											<span class="elementor-icon-list-icon">
-							<svg aria-hidden="true" class="e-font-icon-svg e-far-arrow-alt-circle-right" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M504 256C504 119 393 8 256 8S8 119 8 256s111 248 248 248 248-111 248-248zm-448 0c0-110.5 89.5-200 200-200s200 89.5 200 200-89.5 200-200 200S56 366.5 56 256zm72 20v-40c0-6.6 5.4-12 12-12h116v-67c0-10.7 12.9-16 20.5-8.5l99 99c4.7 4.7 4.7 12.3 0 17l-99 99c-7.6 7.6-20.5 2.2-20.5-8.5v-67H140c-6.6 0-12-5.4-12-12z"></path></svg>						</span>
-										<span class="elementor-icon-list-text">+20 músicas sem direitos autorais</span>
-									</li>
-								<li class="elementor-icon-list-item">
-											<span class="elementor-icon-list-icon">
-							<svg aria-hidden="true" class="e-font-icon-svg e-far-arrow-alt-circle-right" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M504 256C504 119 393 8 256 8S8 119 8 256s111 248 248 248 248-111 248-248zm-448 0c0-110.5 89.5-200 200-200s200 89.5 200 200-89.5 200-200 200S56 366.5 56 256zm72 20v-40c0-6.6 5.4-12 12-12h116v-67c0-10.7 12.9-16 20.5-8.5l99 99c4.7 4.7 4.7 12.3 0 17l-99 99c-7.6 7.6-20.5 2.2-20.5-8.5v-67H140c-6.6 0-12-5.4-12-12z"></path></svg>						</span>
-										<span class="elementor-icon-list-text">+40 vídeos Homens Milionários Poderosos</span>
-									</li>
-								<li class="elementor-icon-list-item">
-											<span class="elementor-icon-list-icon">
-							<svg aria-hidden="true" class="e-font-icon-svg e-far-arrow-alt-circle-right" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M504 256C504 119 393 8 256 8S8 119 8 256s111 248 248 248 248-111 248-248zm-448 0c0-110.5 89.5-200 200-200s200 89.5 200 200-89.5 200-200 200S56 366.5 56 256zm72 20v-40c0-6.6 5.4-12 12-12h116v-67c0-10.7 12.9-16 20.5-8.5l99 99c4.7 4.7 4.7 12.3 0 17l-99 99c-7.6 7.6-20.5 2.2-20.5-8.5v-67H140c-6.6 0-12-5.4-12-12z"></path></svg>						</span>
-										<span class="elementor-icon-list-text">+90 vídeos Mulheres Milionárias Poderosas</span>
-									</li>
-								<li class="elementor-icon-list-item">
-											<span class="elementor-icon-list-icon">
-							<svg aria-hidden="true" class="e-font-icon-svg e-far-arrow-alt-circle-right" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M504 256C504 119 393 8 256 8S8 119 8 256s111 248 248 248 248-111 248-248zm-448 0c0-110.5 89.5-200 200-200s200 89.5 200 200-89.5 200-200 200S56 366.5 56 256zm72 20v-40c0-6.6 5.4-12 12-12h116v-67c0-10.7 12.9-16 20.5-8.5l99 99c4.7 4.7 4.7 12.3 0 17l-99 99c-7.6 7.6-20.5 2.2-20.5-8.5v-67H140c-6.6 0-12-5.4-12-12z"></path></svg>						</span>
-										<span class="elementor-icon-list-text">+40 vídeos de Glamour</span>
-									</li>
-								<li class="elementor-icon-list-item">
-											<span class="elementor-icon-list-icon">
-							<svg aria-hidden="true" class="e-font-icon-svg e-far-arrow-alt-circle-right" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M504 256C504 119 393 8 256 8S8 119 8 256s111 248 248 248 248-111 248-248zm-448 0c0-110.5 89.5-200 200-200s200 89.5 200 200-89.5 200-200 200S56 366.5 56 256zm72 20v-40c0-6.6 5.4-12 12-12h116v-67c0-10.7 12.9-16 20.5-8.5l99 99c4.7 4.7 4.7 12.3 0 17l-99 99c-7.6 7.6-20.5 2.2-20.5-8.5v-67H140c-6.6 0-12-5.4-12-12z"></path></svg>						</span>
-										<span class="elementor-icon-list-text">+50 vídeos de Memes</span>
-									</li>
-								<li class="elementor-icon-list-item">
-											<span class="elementor-icon-list-icon">
-							<svg aria-hidden="true" class="e-font-icon-svg e-far-arrow-alt-circle-right" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M504 256C504 119 393 8 256 8S8 119 8 256s111 248 248 248 248-111 248-248zm-448 0c0-110.5 89.5-200 200-200s200 89.5 200 200-89.5 200-200 200S56 366.5 56 256zm72 20v-40c0-6.6 5.4-12 12-12h116v-67c0-10.7 12.9-16 20.5-8.5l99 99c4.7 4.7 4.7 12.3 0 17l-99 99c-7.6 7.6-20.5 2.2-20.5-8.5v-67H140c-6.6 0-12-5.4-12-12z"></path></svg>						</span>
-										<span class="elementor-icon-list-text">+60 vídeos sobre Liberdade</span>
-									</li>
-								<li class="elementor-icon-list-item">
-											<span class="elementor-icon-list-icon">
-							<svg aria-hidden="true" class="e-font-icon-svg e-far-arrow-alt-circle-right" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M504 256C504 119 393 8 256 8S8 119 8 256s111 248 248 248 248-111 248-248zm-448 0c0-110.5 89.5-200 200-200s200 89.5 200 200-89.5 200-200 200S56 366.5 56 256zm72 20v-40c0-6.6 5.4-12 12-12h116v-67c0-10.7 12.9-16 20.5-8.5l99 99c4.7 4.7 4.7 12.3 0 17l-99 99c-7.6 7.6-20.5 2.2-20.5-8.5v-67H140c-6.6 0-12-5.4-12-12z"></path></svg>						</span>
-										<span class="elementor-icon-list-text">+70 vídeos de Carros Milionários</span>
-									</li>
-								<li class="elementor-icon-list-item">
-											<span class="elementor-icon-list-icon">
-							<svg aria-hidden="true" class="e-font-icon-svg e-far-arrow-alt-circle-right" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M504 256C504 119 393 8 256 8S8 119 8 256s111 248 248 248 248-111 248-248zm-448 0c0-110.5 89.5-200 200-200s200 89.5 200 200-89.5 200-200 200S56 366.5 56 256zm72 20v-40c0-6.6 5.4-12 12-12h116v-67c0-10.7 12.9-16 20.5-8.5l99 99c4.7 4.7 4.7 12.3 0 17l-99 99c-7.6 7.6-20.5 2.2-20.5-8.5v-67H140c-6.6 0-12-5.4-12-12z"></path></svg>						</span>
-										<span class="elementor-icon-list-text">+70 cortes do Thiago Nigro</span>
-									</li>
-								<li class="elementor-icon-list-item">
-											<span class="elementor-icon-list-icon">
-							<svg aria-hidden="true" class="e-font-icon-svg e-far-arrow-alt-circle-right" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M504 256C504 119 393 8 256 8S8 119 8 256s111 248 248 248 248-111 248-248zm-448 0c0-110.5 89.5-200 200-200s200 89.5 200 200-89.5 200-200 200S56 366.5 56 256zm72 20v-40c0-6.6 5.4-12 12-12h116v-67c0-10.7 12.9-16 20.5-8.5l99 99c4.7 4.7 4.7 12.3 0 17l-99 99c-7.6 7.6-20.5 2.2-20.5-8.5v-67H140c-6.6 0-12-5.4-12-12z"></path></svg>						</span>
-										<span class="elementor-icon-list-text">Bônus: +150 imagens LifeStyle Milionário</span>
-									</li>
-								<li class="elementor-icon-list-item">
-											<span class="elementor-icon-list-icon">
-							<svg aria-hidden="true" class="e-font-icon-svg e-far-arrow-alt-circle-right" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M504 256C504 119 393 8 256 8S8 119 8 256s111 248 248 248 248-111 248-248zm-448 0c0-110.5 89.5-200 200-200s200 89.5 200 200-89.5 200-200 200S56 366.5 56 256zm72 20v-40c0-6.6 5.4-12 12-12h116v-67c0-10.7 12.9-16 20.5-8.5l99 99c4.7 4.7 4.7 12.3 0 17l-99 99c-7.6 7.6-20.5 2.2-20.5-8.5v-67H140c-6.6 0-12-5.4-12-12z"></path></svg>						</span>
-										<span class="elementor-icon-list-text">Bônus: Edição de vídeo no CapCut na prática</span>
-									</li>
-								<li class="elementor-icon-list-item">
-											<span class="elementor-icon-list-icon">
-							<svg aria-hidden="true" class="e-font-icon-svg e-far-arrow-alt-circle-right" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M504 256C504 119 393 8 256 8S8 119 8 256s111 248 248 248 248-111 248-248zm-448 0c0-110.5 89.5-200 200-200s200 89.5 200 200-89.5 200-200 200S56 366.5 56 256zm72 20v-40c0-6.6 5.4-12 12-12h116v-67c0-10.7 12.9-16 20.5-8.5l99 99c4.7 4.7 4.7 12.3 0 17l-99 99c-7.6 7.6-20.5 2.2-20.5-8.5v-67H140c-6.6 0-12-5.4-12-12z"></path></svg>						</span>
-										<span class="elementor-icon-list-text">Bônus: Atualizações Semanais de 5 - 8 vídeos/áudios</span>
-									</li>
-								<li class="elementor-icon-list-item">
-											<span class="elementor-icon-list-icon">
-							<svg aria-hidden="true" class="e-font-icon-svg e-far-arrow-alt-circle-right" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M504 256C504 119 393 8 256 8S8 119 8 256s111 248 248 248 248-111 248-248zm-448 0c0-110.5 89.5-200 200-200s200 89.5 200 200-89.5 200-200 200S56 366.5 56 256zm72 20v-40c0-6.6 5.4-12 12-12h116v-67c0-10.7 12.9-16 20.5-8.5l99 99c4.7 4.7 4.7 12.3 0 17l-99 99c-7.6 7.6-20.5 2.2-20.5-8.5v-67H140c-6.6 0-12-5.4-12-12z"></path></svg>						</span>
-										<span class="elementor-icon-list-text">Acesso completo a todos os Bônus</span>
-									</li>
-								<li class="elementor-icon-list-item">
-											<span class="elementor-icon-list-icon">
-							<svg aria-hidden="true" class="e-font-icon-svg e-far-arrow-alt-circle-right" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M504 256C504 119 393 8 256 8S8 119 8 256s111 248 248 248 248-111 248-248zm-448 0c0-110.5 89.5-200 200-200s200 89.5 200 200-89.5 200-200 200S56 366.5 56 256zm72 20v-40c0-6.6 5.4-12 12-12h116v-67c0-10.7 12.9-16 20.5-8.5l99 99c4.7 4.7 4.7 12.3 0 17l-99 99c-7.6 7.6-20.5 2.2-20.5-8.5v-67H140c-6.6 0-12-5.4-12-12z"></path></svg>						</span>
-										<span class="elementor-icon-list-text">7 dias de garantia incondicional;</span>
-									</li>
-						</ul>
-				</div>
-				</div>
-					</div>
-		</div>
-					</div>
-		</section>
-					</div>
-		</div>
-					</div>
-		</section>
-		<div class="elementor-element elementor-element-7d7313b5 e-flex e-con-boxed e-con e-parent" data-id="7d7313b5" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}" data-core-v316-plus="true">
-					<div class="e-con-inner">
-				<div class="elementor-element elementor-element-24e7c41 elementor-align-center elementor-widget elementor-widget-button" data-id="24e7c41" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;none&quot;}" data-widget_type="button.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-button-wrapper">
-			<a class="elementor-button elementor-button-link elementor-size-lg elementor-animation-grow" href="https://pay.kiwify.com.br/riEcuE9">
-						<span class="elementor-button-content-wrapper">
-						<span class="elementor-button-text">SIM! EU QUERO!</span>
-		</span>
-					</a>
-		</div>
-				</div>
-				</div>
-				<div class="elementor-element elementor-element-6e28ef90 elementor-widget elementor-widget-heading" data-id="6e28ef90" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default"><a href="https://pay.kiwify.com.br/ZjNzCzl"><u>Não, obrigado! Quero a oferta básica!</u></a></h2>		</div>
-				</div>
-					</div>
-				</div>
-		<div class="elementor-element elementor-element-36afa1b7 e-flex e-con-boxed e-con e-parent" data-id="36afa1b7" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}" data-core-v316-plus="true">
-					<div class="e-con-inner">
-				<div class="elementor-element elementor-element-6167ea8f elementor-widget elementor-widget-heading" data-id="6167ea8f" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default"><u><b>ATENÇÃO:</b></u> Essa oferta é única e exclusiva, ela está disponível apenas nesta página.</h2>		</div>
-				</div>
-					</div>
-				</div>
-		<div class="elementor-element elementor-element-74e1a7f5 e-flex e-con-boxed e-con e-parent" data-id="74e1a7f5" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}" data-core-v316-plus="true">
-					<div class="e-con-inner">
-				<div class="elementor-element elementor-element-9d1c42f elementor-widget elementor-widget-text-editor" data-id="9d1c42f" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-			<style>/*! elementor - v3.20.0 - 26-03-2024 */
-.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#69727d;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#69727d;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<p style="text-align: center;"><span style="color: #ffffff;"><a style="color: #ffffff;" href="https://comprandoseguro.online/politicas-de-privacidade/">Política de Privacidade</a> | <a style="color: #ffffff;" href="https://comprandoseguro.online/termos-e-condicoes/">Termos de Uso</a></span></p><p style="text-align: center;"><span style="color: #ffffff;">Todos os direitos reservados</span></p>						</div>
-				</div>
-					</div>
-				</div>
-				</div>
-		<input type='hidden' value='https://comprandoseguro.online/updateAutomaticMetrics' id='splUrlAutomaticLinks'><input type='hidden' value='112' id='splPostIdAutomaticLinks'>
-<style type="text/css">
-
-.rgpd-box-aviso{
-	padding: 0 0 15px 0;
-}
-
-.rgpd-custom-box .dashicons-insert{
-	font-size: 30px;
-	color: #e8e8e8;
-	float: right;
-	padding: 0 35px 0 0;
-	cursor: pointer;
-}
-
-.privacyUrls{
-	position: absolute;
-	left: 20px;
-}
-
-.rgpd-right{
-	position: absolute;
-	right: 20px;
-	bottom: 20px;
-}
-
-.rgpdsavebtn{
-	background-color: #2196F3;
-	margin-top: 20px;
-	padding: 5px 15px;
-	border: 0px;
-	border-radius: 5px;
-	color: #fff;
-	cursor: pointer;
-	font-size: 14px;
-}
-
-.rgpd-custom-box{
-	display: none;
-	background-color: #fff;
-	width: 800px;
-	height: 600px;
-	border-radius: 15px;
-	border: 1px solid #f7f7f7;
-	position: fixed;
-	top: 50%;
-	left: 50%;
-	transform: translate(-50%, -50%);
-	z-index: 999999;
-	padding: 20px;
-
-}
-
-.rgpd-custom-box p, .rgpd-center h2{
-	color: #383737;
-}
-
-.rgpd-custom-box p{
-	font-weight: 300;
-    font-size: 14px;
-    padding-top: 20px;
-}
-
-.rgpd-center h2{
-	
-	text-align: center;
-	padding-bottom: 10px;
-
-}
-.rgpd-box-titulo h3{
-	padding: 10px 10px 10px 35px;
-	color: #353535;
-	font-weight: 300;
-	font-size: 18px;
-}
-
-.rgpd-box-switch{
-	padding: 5px 20px 0 0;
-	/*position: absolute;*/
-    right: 10px;
-}
-
-.rgpd-custom-cookies{
-	display: flex;
-	padding-top: 20px;
-}
-
-.switch {
-  position: relative;
-  display: inline-block;
-  width: 60px;
-  height: 34px;
-}
-
-.switch input { 
-  opacity: 0;
-  width: 0;
-  height: 0;
-}
-
-.sliderrgpd {
-  position: absolute;
-  cursor: pointer;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  background-color: #ccc;
-  -webkit-transition: .4s;
-  transition: .4s;
-}
-
-.sliderrgpd:before {
-  position: absolute;
-  content: "";
-  height: 26px;
-  width: 26px;
-  left: 4px;
-  bottom: 4px;
-  background-color: white;
-  -webkit-transition: .4s;
-  transition: .4s;
-}
-
-input:checked + .sliderrgpd {
-  background-color: #2196F3;
-}
-
-input:focus + .sliderrgpd {
-  box-shadow: 0 0 1px #2196F3;
-}
-
-input:checked + .sliderrgpd:before {
-  -webkit-transform: translateX(26px);
-  -ms-transform: translateX(26px);
-  transform: translateX(26px);
-}
-
-/* Rounded sliders */
-.sliderrgpd.round {
-  border-radius: 34px;
-}
-
-.sliderrgpd.round:before {
-  border-radius: 50%;
-}
-
-/* mostrar descrição dos cookies */
-
-.rgpd-box-titulo {
-  cursor: pointer;
-  width: 650px;
-}
-
-.rgpd-box-desc {
-  display: none;
-  float: left;
-  padding: 0 15px 0 15px;
-}
-
-.rgpd-custom-flex{
-	display: flex;
-/*	justify-content: space-around; */
-}
-.scroll-rgpd{
-	border-radius: 15px;
-	background-color: #f9f9f9;
-	overflow: auto;
-	height: 300px;
-}
-
-
-/* MOBILE */
-@media only screen and (max-width: 600px) { 
-.rgpd-custom-box {
-    width: 100%;
-    height: 100%;
-}
-.rgpd-custom-flex {
-    display: block;
- }
-.rgpd-right {
-    right: 40px;
-    bottom: 40px;
-}
-
-}
-
-
-</style>
-<script type="text/javascript">
-
-	function runConsole(nome){
-		console.log("run: "+nome);
-/*
-		//checkbox rgpdCookies01 
-		if (document.getElementById('rgpdCookies01').checked) {
-	           // console.log("está checked");
-	            setCookie('rgpdCookies01','true','360');
-	    } else {
-	            //console.log("não está checked");
-	            setCookie('rgpdCookies01','false','360');
-	    }
-*/
-	    //checkbox rgpdCookies02 
-		if (document.getElementById('rgpdCookies02').checked) {
-	            console.log("está checked");
-	            setCookie('rgpdCookies02','true','360');
-	    } else {
-	            //console.log("não está checked");
-	            setCookie('rgpdCookies02','false','360');
-	    }
-
-		//checkbox rgpdCookies03 
-		if (document.getElementById('rgpdCookies03').checked) {
-	            //console.log("está checked");
-	            setCookie('rgpdCookies03','true','360');
-	    } else {
-	            //console.log("não está checked");
-	            setCookie('rgpdCookies03','false','360');
-	    }
-
-		//checkbox rgpdCookies04 
-		if (document.getElementById('rgpdCookies04').checked) {
-	            //console.log("está checked");
-	            setCookie('rgpdCookies04','true','360');
-	    } else {
-	            //console.log("não está checked");
-	            setCookie('rgpdCookies04','false','360');
-	    }	    
-	
-	    //change style display for id rgpdCustomBox
-		document.getElementById("rgpdCustomBox").style.display = "none";
-
-	}
-
-	function setCookie(cname, cvalue, exdays) {
-
-		  var d = new Date();
-		  d.setTime(d.getTime() + (exdays*24*60*60*1000));
-		  var expires = "expires=" + d.toGMTString();
-		  document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/";
-
-	}
-
-
-	function openRgdpBox(){
-		document.getElementById("rgpdCustomBox").style.display = "block";
-	}
-
-	function closeBoxRdpd() {
-		document.getElementById("rgpdCustomBox").style.display = "none";
-	}
-
-
-	function Cookie1desc() {
-		var display = document.getElementById('Cookie1desc').style.display;	
-		document.getElementById("Cookie1desc").style.display = "block";	
-		if (display == 'block') {
-			document.getElementById("Cookie1desc").style.display = "none";
-		}
-	}
-
-	function Cookie2desc() {
-		var display = document.getElementById('Cookie2desc').style.display;	
-		document.getElementById("Cookie2desc").style.display = "block";	
-		if (display == 'block') {
-			document.getElementById("Cookie2desc").style.display = "none";
-		}
-	}
-	
-	function Cookie3desc() {
-		var display = document.getElementById('Cookie3desc').style.display;	
-		document.getElementById("Cookie3desc").style.display = "block";	
-		if (display == 'block') {
-			document.getElementById("Cookie3desc").style.display = "none";
-		}
-	}
-	
-	function Cookie4desc() {
-		var display = document.getElementById('Cookie4desc').style.display;	
-		document.getElementById("Cookie4desc").style.display = "block";	
-		if (display == 'block') {
-			document.getElementById("Cookie4desc").style.display = "none";
-		}
-	}	
-
-</script>	<div class="rgpd-custom-box" id="rgpdCustomBox">
-		<span onclick="closeBoxRdpd()" class="dashicons dashicons-insert"></span>
-
-		<div class="rgpd-center">
-			<h2>Damos valor à sua privacidade</h2>
-		</div>
-			<div class="rgpd-box-aviso">
-				<p>
-					Nós e os nossos parceiros armazenamos ou acedemos a informações dos dispositivos, tais como cookies, e processamos dados pessoais, tais como identificadores exclusivos e informações padrão enviadas pelos dispositivos, para as finalidades descritas abaixo. Poderá clicar para consentir o processamento por nossa parte e pela parte dos nossos parceiros para tais finalidades. Em alternativa, poderá clicar para recusar o consentimento, ou aceder a informações mais pormenorizadas e alterar as suas preferências antes de dar consentimento. As suas preferências serão aplicadas apenas a este website.				</p>
-			</div>
-<div class="scroll-rgpd">
-	<div class="rgpd-custom-flex">		
-		<div class="rgpd-custom-cookies">
-	
-			<div class="rgpd-box-titulo" ><!-- onclick="Cookie1desc()" -->
-				<h3>Cookies estritamente necessários</h3>
-			</div><!-- rgpd-box-titulo -->
-					</div><!-- rgpd-custom-cookies -->
-	</div><!-- rgpd-custom-flex -->	
-			<div class="rgpd-box-desc" id="Cookie1desc">
-				<p>
-					Estes cookies são necessários para que o website funcione e não podem ser desligados nos nossos sistemas. Normalmente, eles só são configurados em resposta a ações levadas a cabo por si e que correspondem a uma solicitação de serviços, tais como definir as suas preferências de privacidade, iniciar sessão ou preencher formulários. Pode configurar o seu navegador para bloquear ou alertá-lo(a) sobre esses cookies, mas algumas partes do website não funcionarão. Estes cookies não armazenam qualquer informação pessoal identificável.				</p>
-			</div>		
-	<div class="rgpd-custom-flex">
-		<div class="rgpd-custom-cookies">
-		
-			<div class="rgpd-box-titulo" onclick="Cookie2desc()">
-				<h3>Cookies de desempenho</h3>
-			</div><!-- rgpd-box-titulo -->
-
-			<div class="rgpd-box-switch">
-				<label class="switch">
-				  <input type="checkbox" name="rgpdCookies02" id="rgpdCookies02" checked>
-				  <span class="sliderrgpd round"></span>
-				</label>
-			</div><!-- rgpd-box-switch -->	
-		</div><!-- rgpd-custom-cookies -->
-	</div><!-- rgpd-custom-flex -->				
-			<div class="rgpd-box-desc" id="Cookie2desc">
-				<p>Estes cookies permitem-nos contar visitas e fontes de tráfego, para que possamos medir e melhorar o desempenho do nosso website. Eles ajudam-nos a saber quais são as páginas mais e menos populares e a ver como os visitantes se movimentam pelo website. Todas as informações recolhidas por estes cookies são agregadas e, por conseguinte, anónimas. Se não permitir estes cookies, não saberemos quando visitou o nosso site.</p>
-			</div>
-	<div class="rgpd-custom-flex">
-		<div class="rgpd-custom-cookies">
-		
-			<div class="rgpd-box-titulo" onclick="Cookie3desc()">
-				<h3>Cookies de funcionalidade</h3>
-			</div><!-- rgpd-box-titulo -->
-
-			<div class="rgpd-box-switch">
-				<label class="switch">
-				  <input type="checkbox" name="rgpdCookies03" id="rgpdCookies03" checked>
-				  <span class="sliderrgpd round"></span>
-				</label>
-			</div><!-- rgpd-box-switch -->	
-		</div><!-- rgpd-custom-cookies -->
-	</div><!-- rgpd-custom-flex -->		
-			<div class="rgpd-box-desc" id="Cookie3desc">
-				<p>Estes cookies permitem que o site forneça uma funcionalidade e personalização melhoradas. Podem ser estabelecidos por nós ou por fornecedores externos cujos serviços adicionámos às nossas páginas. Se não permitir estes cookies algumas destas funcionalidades, ou mesmo todas, podem não atuar corretamente.</p>
-			</div>			
-	<div class="rgpd-custom-flex">
-		<div class="rgpd-custom-cookies">
-		
-			<div class="rgpd-box-titulo" onclick="Cookie4desc()">
-				<h3>Cookies de publicidade</h3>
-			</div><!-- rgpd-box-titulo -->
-
-			<div class="rgpd-box-switch">
-				<label class="switch">
-				  <input type="checkbox" name="rgpdCookies04" id="rgpdCookies04" checked>
-				  <span class="sliderrgpd round"></span>
-				</label>
-			</div><!-- rgpd-box-switch -->
-		</div><!-- rgpd-custom-cookies -->
-	</div><!-- rgpd-custom-flex -->		
-			<div class="rgpd-box-desc" id="Cookie4desc">
-				<p>Estes cookies podem ser estabelecidos através do nosso site pelos nossos parceiros de publicidade. Podem ser usados por essas empresas para construir um perfil sobre os seus interesses e mostrar-lhe anúncios relevantes em outros websites. Eles não armazenam diretamente informações pessoais, mas são baseados na identificação exclusiva do seu navegador e dispositivo de internet. Se não permitir estes cookies, terá menos publicidade direcionada.</p>
-			</div>			
-	
-</div>
-
-			<div class="privacyUrls">
-
-						
-						
-				
-									<p>Visite as nossas páginas de <a href="https://comprandoseguro.online/?p=13" target="_blank">Políticas de privacidade</a> e <a href="https://comprandoseguro.online/?p=10" target="_blank">Termos e condições</a>.</p>
-				
-			</div>
-
-		<div class="rgpd-right">
-
-			<button type="submit" onclick="runConsole('sim')" class="rgpdsavebtn">Guardar</button>
-
-		</div>
-
-	
-
-	</div><!-- rgpd-custom-box -->
-
-
-	
-<style>
-@import url('https://fonts.googleapis.com/css?family=Poppins|Handlee|Courgette|Lora|Nunito|Lato|Ubuntu|Raleway|Open+Sans|Arial');
-</style>
-
-  <script type="text/javascript">
- 
-  function rgpdDisplayPopup()
-  {
-    //document.getElementByID("myModalrgpd").style.display = "block";
-    alert("ok");
-  }
-  
-  
-  function idRgpdSetCookie(cname, cvalue, exdays)
-  {//create js cookie
-    var d = new Date();
-    d.setTime(d.getTime() + (exdays*24*60*60*1000));
-    var expires = "expires="+ d.toUTCString();
-    document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/";
-    }
-
-  function setCookie(cname, cvalue, exdays) {
-  var d = new Date();
-  d.setTime(d.getTime() + (exdays*24*60*60*1000));
-  var expires = "expires="+ d.toUTCString();
-  document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/";
-  }
-  
-  function rgpdSetCookie()
-  {//ajax and js cookie function call
-    var set=2;
-    
-     var xhttp = new XMLHttpRequest();
-       xhttp.onreadystatechange = function() {
-    if (this.readyState == 4 && this.status == 200){
-    set=this.responseText;  
-    }
-    };
-  
-    xhttp.open("POST", "https://comprandoseguro.online/wp-content/plugins/wp_rgpd/update.php", true);
-    xhttp.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
-    xhttp.send("rgpdset=1");
-  
-      
-  setCookie('IDRGPD','created',3650);
-  document.getElementById("myModalrgpd").style.display = "none";
-  
-  }
-  </script>
-  
-          
-                
-                 <div id="myModalrgpd" class="wprgpd-modal-dialogg rgpdboxcolor" style="font-family:poppins;">
-                
-
-               <!--  <form action="" method="post"> -->
-                    <font color=#ffffff>
-                    <b>Importante:</b>
-Este site faz uso de cookies que podem conter informações de rastreamento sobre o visitante para melhorar sua experiência de navegação.        
-                    </font>
-        
-         
-                    
-                <div style="display:inline-grid;float: right;">
-
-                <button id="rgpdcookieaccept" name="rgpdcookieaccept" class="rgpdacceptbtn btn btn-primary pull-right" onclick="rgpdSetCookie()" style="float:right;margin-top:5px; margin-right:10px;" id="yes">
-                Concordar e fechar                </button>
-                
-         
-                         </div>
-         
-         
-              
-            </div>
-         
-            
- <style>
-.wprgpd-modal-dialogg{
-    
-    bottom:0px;left:0px;border-radius:10px;margin:10px;
-    
-    position:fixed;
-    
-    padding:10px 20px 20px
-    
-}
-
-
-
-
-</style>
-
-
-<style>
-
-
-.rgpdboxcolor{
-    background-color:#000000;
-    opacity: 0.9;
-  display: none;
-}
-
-.btn{
-  background-color:#36b073 !important;
-  color: #ffffff !important;
-}
-
-.wprgpd-modal-dialogg{
-    z-index:10000;
-    
-}
-
-.wprgpd-modal-dialogg a {
-    color: #ffffff;
-}
-
-.wprgpd-modal-dialogg a:hover {
-    color: #2E9AFE;
-}
-
-.btn {
-  margin:0 10px;
-  line-height:20px;
-  background:#45AE52;
-  border:none;
-  color: #ffffff;
-  padding:2px 12px;
-  border-radius: 3px;
-  cursor: pointer;
-  font-size: 12px;
-  font-weight: bold;
-}
-
-</style> 
-
-<!--
-  <style>
-.wprgpd-modal-dialogg{
-    
-    bottom:0px;left:0px;border-radius:10px;margin:10px;
-    margin:;
-    position:fixed;
-    
-}
-</style>
-
-
-<style>
-.rgpdboxcolor{
-    background-color:#000000;
-    opacity: 0.9;
-}
-
-.wprgpd-modal-dialogg{
-    z-index:10000;
-    
-}
-
-.btn {
-  -webkit-border-radius: 0;
-  -moz-border-radius: 0;
-  border-radius: 6px;
-  font-family: Arial;
-  color: #ffffff;
-  font-size: 15px;
-  background: #0B0B61;
-  padding: 5px 10px 5px 10px;
-  text-decoration: none;
-}
-
-/** UPDATE BARRA COOKIES **/
-
-* {
-    box-sizing: border-box;
-}
-
-/* Create three equal columns that floats next to each other */
-.columntxt {
-    float: left;
-    width: 60%;
-    padding: 10px;
-    height: 85px; /* Should be removed. Only for demonstration */
-}
-.columnbtn {
-    float: left;
-    width: 20%;
-    padding: 10px;
-    height: 85px; /* Should be removed. Only for demonstration */
-}
-
-/* Clear floats after the columns */
-.row:after {
-    content: "";
-    display: table;
-    clear: both;
-}
-
-
-</style>
--->
-
-
-
-  
-    
-
-<style></style>
-
-<script type="text/javascript">
-
-
-/*
-function getCookie(cname) {
-  var name = cname + "=";
-  var decodedCookie = decodeURIComponent(document.cookie);
-  var ca = decodedCookie.split(';');
-  for(var i = 0; i <ca.length; i++) {
-    var c = ca[i];
-    while (c.charAt(0) == ' ') {
-      c = c.substring(1);
-    }
-    if (c.indexOf(name) == 0) {
-      return c.substring(name.length, c.length);
-    }
-  }
-  return "";
-}
-
-*/
-
-
-function getCookie(name) {
-    var dc = document.cookie;
-    var prefix = name + "=";
-    var begin = dc.indexOf("; " + prefix);
-    if (begin == -1) {
-        begin = dc.indexOf(prefix);
-        if (begin != 0) return null;
-    }
-    else
-    {
-        begin += 2;
-        var end = document.cookie.indexOf(";", begin);
-        if (end == -1) {
-        end = dc.length;
-        }
-    }
-    // because unescape has been deprecated, replaced with decodeURI
-    //return unescape(dc.substring(begin + prefix.length, end));
-    return decodeURI(dc.substring(begin + prefix.length, end));
-} 
-
-     var rgpd_cookie = getCookie("IDRGPD");
-  //   console.log(rgpd_cookie);
-
-  setTimeout(function show_rgpd_box_java(){
-     //setCookie('IDRGPD','s',365);//('IDRGPD','created',3650); check if cookie exist
-
-        if(rgpd_cookie != 'created'){
-            setCookie('IDRGPD','s',365);
-   //         console.log('block')
-            document.getElementById("myModalrgpd").style.display = "block";
-        } else {
-     //       console.log('none')
-            document.getElementById("myModalrgpd").style.display = "none";
-        }
-     
-  }, 1000);
-
-
-</script>
-
-<!-- cookies on body --><!-- cookies on body --><link rel='stylesheet' id='e-animations-css' href='https://comprandoseguro.online/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.20.3' media='all' />
-<script id="wp-block-template-skip-link-js-after">
-	( function() {
-		var skipLinkTarget = document.querySelector( 'main' ),
-			sibling,
-			skipLinkTargetID,
-			skipLink;
-
-		// Early exit if a skip-link target can't be located.
-		if ( ! skipLinkTarget ) {
-			return;
-		}
-
-		/*
-		 * Get the site wrapper.
-		 * The skip-link will be injected in the beginning of it.
-		 */
-		sibling = document.querySelector( '.wp-site-blocks' );
-
-		// Early exit if the root element was not found.
-		if ( ! sibling ) {
-			return;
-		}
-
-		// Get the skip-link target's ID, and generate one if it doesn't exist.
-		skipLinkTargetID = skipLinkTarget.id;
-		if ( ! skipLinkTargetID ) {
-			skipLinkTargetID = 'wp--skip-link--target';
-			skipLinkTarget.id = skipLinkTargetID;
-		}
-
-		// Create the skip link.
-		skipLink = document.createElement( 'a' );
-		skipLink.classList.add( 'skip-link', 'screen-reader-text' );
-		skipLink.href = '#' + skipLinkTargetID;
-		skipLink.innerHTML = 'Skip to content';
-
-		// Inject the skip link.
-		sibling.parentElement.insertBefore( skipLink, sibling );
-	}() );
-	
-</script>
-<script src="https://comprandoseguro.online/wp-content/plugins/super-links/assets/js/automatic-links.js?ver=4.0.24" id="spl_automaticLink_js-js"></script>
-<script src="https://comprandoseguro.online/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.7.3" id="elementor-pro-webpack-runtime-js"></script>
-<script src="https://comprandoseguro.online/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.20.3" id="elementor-webpack-runtime-js"></script>
-<script src="https://comprandoseguro.online/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
-<script src="https://comprandoseguro.online/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
-<script src="https://comprandoseguro.online/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.20.3" id="elementor-frontend-modules-js"></script>
-<script src="https://comprandoseguro.online/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2" id="wp-polyfill-inert-js"></script>
-<script src="https://comprandoseguro.online/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.14.0" id="regenerator-runtime-js"></script>
-<script src="https://comprandoseguro.online/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0" id="wp-polyfill-js"></script>
-<script src="https://comprandoseguro.online/wp-includes/js/dist/hooks.min.js?ver=2810c76e705dd1a53b18" id="wp-hooks-js"></script>
-<script src="https://comprandoseguro.online/wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6" id="wp-i18n-js"></script>
-<script id="wp-i18n-js-after">
-wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
-</script>
-<script id="elementor-pro-frontend-js-before">
-var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/comprandoseguro.online\/wp-admin\/admin-ajax.php","nonce":"f11ae586bd","urls":{"assets":"https:\/\/comprandoseguro.online\/wp-content\/plugins\/elementor-pro\/assets\/","rest":"https:\/\/comprandoseguro.online\/wp-json\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"facebook_sdk":{"lang":"en_US","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/comprandoseguro.online\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
-</script>
-<script src="https://comprandoseguro.online/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.7.3" id="elementor-pro-frontend-js"></script>
-<script src="https://comprandoseguro.online/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2" id="elementor-waypoints-js"></script>
-<script src="https://comprandoseguro.online/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2" id="jquery-ui-core-js"></script>
-<script id="elementor-frontend-js-before">
-var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close","a11yCarouselWrapperAriaLabel":"Carousel | Horizontal scrolling: Arrow Left & Right","a11yCarouselPrevSlideMessage":"Previous slide","a11yCarouselNextSlideMessage":"Next slide","a11yCarouselFirstSlideMessage":"This is the first slide","a11yCarouselLastSlideMessage":"This is the last slide","a11yCarouselPaginationBulletMessage":"Go to slide"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile Portrait","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Landscape","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet Portrait","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Landscape","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}},"version":"3.20.3","is_static":false,"experimentalFeatures":{"e_optimized_assets_loading":true,"e_optimized_css_loading":true,"e_font_icon_svg":true,"additional_custom_breakpoints":true,"container":true,"e_swiper_latest":true,"container_grid":true,"theme_builder_v2":true,"block_editor_assets_optimize":true,"ai-layout":true,"landing-pages":true,"e_image_loading_optimization":true,"page-transitions":true,"form-submissions":true,"e_scroll_snap":true},"urls":{"assets":"https:\/\/comprandoseguro.online\/wp-content\/plugins\/elementor\/assets\/"},"swiperClass":"swiper","settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":112,"title":"Up%20Viraliza%C3%A7%C3%A3o%20na%20ALTA%20%E2%80%93%20comprandoseguro.online","excerpt":"","featuredImage":false}};
-</script>
-<script src="https://comprandoseguro.online/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.20.3" id="elementor-frontend-js"></script>
-<script src="https://comprandoseguro.online/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.7.3" id="pro-elements-handlers-js"></script>
-	</body>
-</html>
-
-
-<!-- Page cached by LiteSpeed Cache 6.1 on 2024-04-19 10:54:41 -->
+<html lang="pt-br">
+    <head>
+        <meta charSet="utf-8"/>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+        <meta http-equiv="Cache-Control" content="public, max-age=3600"/>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+        <meta http-equiv="content-language" content="pt-BR"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+        <meta name="audience" content="all"/>
+        <meta name="MobileOptimized" content="320"/>
+        <meta name="HandheldFriendly" content="True"/>
+        <meta name="referrer" content="no-referrer-when-downgrade"/>
+        <link rel="shortcut icon" href=""/>
+        <link rel="icon" href="" type="image/x-icon"/>
+        <link rel="apple-touch-icon" sizes="180x180" href=""/>
+        <title>CLUB - COPIANDO MSG</title>
+        <meta name="theme-color" content="#ffffff"/>
+        <meta name="msapplication-navbutton-color" content="#ffffff"/>
+        <meta name="apple-mobile-web-app-status-bar-style" content="#ffffff"/>
+        <meta property="og:url" content=""/>
+        <meta property="og:title" content="CLUB - COPIANDO MSG"/>
+        <meta property="og:description" content=""/>
+        <meta property="og:locale" content="pt_BR"/>
+        <meta property="og:type" content="website"/>
+        <meta property="og:site_name" content="CLUB - COPIANDO MSG"/>
+        <meta property="og:image"/>
+        <meta property="og:image:secure_url"/>
+        <meta property="og:image:alt" content="CLUB - COPIANDO MSG"/>
+        <meta property="og:image:type" content="image/png"/>
+        <meta itemProp="name" content="CLUB - COPIANDO MSG"/>
+        <meta itemProp="url" content=""/>
+        <meta itemProp="description" content=""/>
+        <meta itemProp="image"/>
+        <meta name="next-head-count" content="31"/>
+        <link rel="preload" href="/_next/static/css/8eb98d19547d62a8.css" as="style"/>
+        <link rel="stylesheet" href="/_next/static/css/8eb98d19547d62a8.css" data-n-g=""/>
+        <link rel="preload" href="/_next/static/css/7976948dc41c1bc4.css" as="style"/>
+        <link rel="stylesheet" href="/_next/static/css/7976948dc41c1bc4.css" data-n-p=""/>
+        <noscript data-n-css=""></noscript>
+        <script defer="" nomodule="" src="/_next/static/chunks/polyfills-c67a75d1b6f99dc8.js"></script>
+        <script src="/_next/static/chunks/webpack-39aea81bb504f385.js" defer=""></script>
+        <script src="/_next/static/chunks/framework-58f366eb5759253f.js" defer=""></script>
+        <script src="/_next/static/chunks/main-0a59bb6b4e7fb627.js" defer=""></script>
+        <script src="/_next/static/chunks/pages/_app-3f235b01b1c34fad.js" defer=""></script>
+        <script src="/_next/static/chunks/332-4023fdd827d9dceb.js" defer=""></script>
+        <script src="/_next/static/chunks/907-e652b1cf2b1227e4.js" defer=""></script>
+        <script src="/_next/static/chunks/622-9f4ba90e7272f2d7.js" defer=""></script>
+        <script src="/_next/static/chunks/pages/%5B...all%5D-0ecf78fb9d3baf07.js" defer=""></script>
+        <script src="/_next/static/NgTb2UOIgFnWIujrsz1_9/_buildManifest.js" defer=""></script>
+        <script src="/_next/static/NgTb2UOIgFnWIujrsz1_9/_ssgManifest.js" defer=""></script>
+        <style id="__jsx-3311024979">
+            :root {
+                --theme-element-size: 60px;
+                --theme-rounded: undefined;
+                --theme-color: #000;
+                --theme-featured-color: inherit;
+                --theme-featured-text-color: #ffffff;
+                --theme-content-color: #000;
+                --theme-title-color: #000;
+                --theme-background-color: inherit;
+                --theme-background-contrast: inherit;
+                --theme-background-light: inherit;
+                --theme-featured-font: undefined;
+                --theme-content-font: "Inter", sans serif, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Noto Color Emoji", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+                --theme-title-size: undefined;
+                --theme-content-size: 16px
+            }
+
+            body,html,document, .main-content {
+                color: var(--theme-content-color);
+                font-size: var(--theme-content-size);
+                font-family: var(--theme-content-font);
+                background-color: var(--theme-background-color)
+            }
+
+            .main-content .btn,.main-content .form-control-theme {
+                width: 100%;
+                min-height: var(--theme-element-size);
+                padding-left: 1rem;
+                padding-right: 1rem
+            }
+
+            .theme-font-featured {
+                font-family: var(--theme-featured-font)!important
+            }
+
+            .theme-font-content {
+                font-family: var(--theme-content-font)!important
+            }
+
+            body,html,document, .bg-theme {
+                background-color: var(--theme-background-color)
+            }
+
+            .bg-theme-opacity {
+                background-color: inherit
+            }
+
+            .bg-featured {
+                background-color: var(--theme-featured-color)
+            }
+
+            .bg-featured-opacity {
+                background-color: inherit
+            }
+
+            .border-theme {
+                border-color: inherit
+            }
+
+            .border-featured,.border-featured-hover:hover {
+                border-color: var(--theme-color)
+            }
+
+            .theme-color-title {
+                color: var(--theme-title-color)
+            }
+
+            .featured-theme {
+                color: #ffffff;
+                background-color: var(--theme-color)
+            }
+
+            .main-content .btn,.theme-font-title {
+                font-family: "Inter",sans serif,system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Noto Color Emoji", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"
+            }
+
+            .form-control-theme {
+                -webkit-transition: all.2s ease;
+                -moz-transition: all.2s ease;
+                -o-transition: all.2s ease;
+                transition: all.2s ease;
+                border-color: inherit
+            }
+
+            .form-control-theme:focus {
+                border-color: inherit
+            }
+
+            .content-calc,.content-variable {
+                font-style: normal!important;
+                font-weight: normal!important;
+                font-size: .9em!important;
+                display: inline-block;
+                padding: 2px 4px;
+                color: #4b5563!important;
+                -webkit-border-radius: 4px;
+                -moz-border-radius: 4px;
+                border-radius: 4px;
+                background-color: #fff;
+                -webkit-box-shadow: 0px 1px 2px#03071221;
+                -moz-box-shadow: 0px 1px 2px#03071221;
+                box-shadow: 0px 1px 2px#03071221
+            }
+
+            .content-calc {
+                padding-right: 2px!important
+            }
+
+            .content p+p {
+                margin-top: .75rem
+            }
+
+            .content h1 {
+                font-size: 2em
+            }
+
+            .content h2 {
+                font-size: 1.5em
+            }
+
+            .content h3 {
+                font-size: 1.17em
+            }
+
+            .content h1,.content h2,.content h3 {
+                line-height: 1.15;
+                color: var(--theme-title-color);
+                font-family: "Inter",sans serif,system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Noto Color Emoji", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"
+            }
+
+            .content h1+p,.content h2+p,.content h3+p {
+                margin-top: .75rem
+            }
+
+            .content .ql-size-huge {
+                font-size: 2.5em;
+                line-height: 1
+            }
+
+            .content .ql-size-large {
+                font-size: 1.5em;
+                line-height: 1
+            }
+
+            .content .ql-size-small {
+                font-size: .75em;
+                line-height: 1.1;
+                display: inline-block
+            }
+
+            .graphic-theme,.argument-theme {
+                color: var(--theme-content-color);
+                border: 1px solid inherit;
+                background-color: var(--theme-background-color)
+            }
+
+            .quote-theme {
+                color: var(--theme-content-color);
+                border-color: inherit;
+                background-color: var(--theme-background-color)
+            }
+
+            .btn-theme {
+                color: #ffffff;
+                background-color: var(--theme-color)
+            }
+
+            .effect-bubble:hover .btn-theme,.btn-theme:hover {
+                background-color: false
+            }
+
+            .hide-volume::-webkit-media-controls-volume-control-container {
+                display: none
+            }
+
+            .hide-volume::-webkit-media-controls-time-remaining-display {
+                display: none
+            }
+        </style>
+        <style id="__jsx-1681175199">
+            .option-background-default {
+                background-color: var(--theme-background-color);
+                color: var(--theme-title-color);
+                border-style: solid;
+                border-color: #E6E6E6;
+                .option-icon-right {
+                    -webkit-transition: all.2s ease;
+                    -moz-transition: all.2s ease;
+                    -o-transition: all.2s ease;
+                    transition: all.2s ease;
+                    background-color: rgba(17, 24, 39, 0.1)
+                }
+
+                .option-icon-select {
+                    -webkit-transition: all.2s ease;
+                    -moz-transition: all.2s ease;
+                    -o-transition: all.2s ease;
+                    transition: all.2s ease;
+                    color: var(--theme-title-color);
+                    background-color: var(--theme-background-color);
+                    border: 1px solid #BFBFBF
+                }
+            }
+
+            .active .option-icon-select {
+                border-color: inherit
+            }
+
+            @media(min-width: 768px) {
+                .option-background-default:hover,.option-background-default:hover .option-icon-select {
+                    border-color:inherit
+                }
+            }
+
+            .active.option-background-default {
+                color: #111827;
+                border-color: var(--theme-color);
+                background-color: var(--theme-color)
+            }
+
+            .option-background-bubble {
+                -webkit-transition: all.2s ease;
+                -moz-transition: all.2s ease;
+                -o-transition: all.2s ease;
+                transition: all.2s ease;
+                font-weight: 500;
+                color: #111827;
+                border-color: false;
+                background-color: var(--theme-color);
+                border-bottom-width: 8px!important;
+                .option-icon-select {
+                    border: 1px solid rgba(17, 24, 39, 0.5)
+                }
+            }
+
+            .active.option-background-bubble,.option-background-bubble:hover {
+                background-color: false
+            }
+
+            .active.option-background-bubble {
+                -webkit-transform: scale(1.025);
+                -moz-transform: scale(1.025);
+                -ms-transform: scale(1.025);
+                -o-transform: scale(1.025);
+                transform: scale(1.025)
+            }
+
+            .option-background-fetured {
+                -webkit-transition: all.2s ease;
+                -moz-transition: all.2s ease;
+                -o-transition: all.2s ease;
+                transition: all.2s ease;
+                font-weight: 500;
+                color: #ffffff;
+                border-color: var(--theme-color);
+                background-color: var(--theme-color);
+                .option-icon-right {
+                    background-color: rgba(229, 231, 235, 0.5)
+                }
+
+                .option-icon-select {
+                    background-color: rgba(17, 24, 39, 0.1);
+                    border: 1px solid rgba(17, 24, 39, 0.5)
+                }
+            }
+
+            .active.option-background-fetured,.option-background-fetured:hover {
+                border-color: false;
+                background-color: false
+            }
+
+            .option-background-contrast {
+                font-weight: 500;
+                color: var(--theme-title-color);
+                border-color: inherit!important;
+                background-color: inherit;
+                .option-icon-right {
+                    color: inherit!important;
+                    background-color: var(--theme-background-color)
+                }
+
+                .option-icon-select {
+                    color: inherit!important;
+                    background-color: var(--theme-background-color);
+                    border: 1px solid inherit!important
+                }
+            }
+
+            .active.option-background-contrast,.option-background-contrast:hover {
+                border-color: inherit!important;
+                background-color: inherit
+            }
+        </style>
+        <style id="__jsx-3927249431">
+            .timer-theme {
+                border-width: 1px;
+                background-color: var(--theme-background-color);
+                border-style: solid;
+                border-color: rgba(17, 24, 39, 0.1)
+            }
+        </style>
+        <style id="__jsx-f1951b6a92c65909">
+            .swiper-pagination-bullet {
+                opacity: .25;
+                background-color: var(--theme-color)!important
+            }
+
+            .swiper-pagination-bullet-active {
+                opacity: 1
+            }
+        </style>
+        <style id="__jsx-4a9bee1b082c245">
+            @-webkit-keyframes fadeInOut {
+                0%,100% {
+                    opacity: 0
+                }
+
+                50% {
+                    opacity: 1
+                }
+            }
+
+            @-moz-keyframes fadeInOut {
+                0%,100% {
+                    opacity: 0
+                }
+
+                50% {
+                    opacity: 1
+                }
+            }
+
+            @-o-keyframes fadeInOut {
+                0%,100% {
+                    opacity: 0
+                }
+
+                50% {
+                    opacity: 1
+                }
+            }
+
+            @keyframes fadeInOut {
+                0%,100% {
+                    opacity: 0
+                }
+
+                50% {
+                    opacity: 1
+                }
+            }
+        </style>
+    </head>
+    <body>
+        <div id="__next">
+            <main class="">
+                <div class="fixed z-[1000] w-full h-full top-0 left-0"></div>
+            </main>
+        </div>
+        <script id="__NEXT_DATA__" type="application/json">
+            {
+                "props": {
+                    "pageProps": {
+                        "funnel": {
+                            "id": 8912,
+                            "hash": "Ufhlly",
+                            "user": 2070,
+                            "title": "CLUB - COPIANDO MSG",
+                            "slug": "club-copiando-msg",
+                            "description": null,
+                            "domain": null,
+                            "shared": null,
+                            "metadata": "{\"updated\":\"2024-09-27 17:03:13\",\"performance\":{\"WxGuW9\":\"99.89\",\"93yJIN\":\"93.20\",\"k2JSTU\":\"87.99\",\"45h2tk\":\"87.30\",\"RUkMvs\":\"19.66\",\"DHaRcA\":\"19.21\",\"GyriQ8\":\"49.60\",\"BfQg0M\":\"85.99\",\"OIh5yp\":\"84.56\",\"Cg94We\":\"84.48\",\"tbqrHD\":\"81.67\"},\"leads\":34809,\"complete\":28428,\"qualified\":29931,\"pageview\":73526}",
+                            "status": 1,
+                            "created_at": "2024-08-29T16:30:42.000000Z",
+                            "updated_at": "2024-09-27T17:03:13.000000Z",
+                            "has_fraud_keywords": "presente",
+                            "is_validated": 1,
+                            "steps": [
+                                {
+                                    "id": "WxGuW9",
+                                    "title": "PG01",
+                                    "layers": [
+                                        {
+                                            "id": "otlTg6",
+                                            "title": "Imagem",
+                                            "icon": "fa-image",
+                                            "type": "image",
+                                            "design": [
+                                            ],
+                                            "content": {
+                                                "image": {
+                                                    "src": "https://d9aloqs890lqz.cloudfront.net/uploads/2070/29-08-2024/9w6kc-copiando-mensagens.png",
+                                                    "type": "image"
+                                                },
+                                                "id": "1ek8JM",
+                                                "name": "5QBTP2"
+                                            }
+                                        },
+                                        {
+                                            "id": "H8wfYc",
+                                            "title": "Texto",
+                                            "icon": "fa-text",
+                                            "type": "text",
+                                            "design": [
+                                            ],
+                                            "content": {
+                                                "text": "\u003ch1 class=\"ql-align-center\"\u003e\u003cspan style=\"color: inherit;\"\u003eVocê está pronto(a)?\u003c/span\u003e\u003c/h1\u003e\u003cp class=\"ql-align-center\"\u003e\u003cspan style=\"color: inherit;\"\u003eVários \u003c/span\u003e\u003cstrong style=\"color: inherit;\"\u003ebrasileiros comuns\u003c/strong\u003e\u003cspan style=\"color: inherit;\"\u003e já estão se beneficiando desse novo sistema que permite fazer grana \u003c/span\u003e\u003cstrong style=\"color: rgb(220, 38, 38);\"\u003eapenas copiando e colando mensagens para  empresas Russas\u0026nbsp;\u003c/strong\u003e🇷🇺\u003c/p\u003e",
+                                                "id": "XYF6jg",
+                                                "name": "tQh8TO"
+                                            }
+                                        },
+                                        {
+                                            "id": "oApj2V",
+                                            "title": "Botão",
+                                            "icon": "fa-rectangle-wide",
+                                            "type": "button",
+                                            "design": {
+                                                "style": "success",
+                                                "bubble": true,
+                                                "fixed": false,
+                                                "pulse": true
+                                            },
+                                            "content": {
+                                                "name": "ozAeNJ",
+                                                "type": "next",
+                                                "label": "Estou Pronto(a)",
+                                                "destination": "93yJIN",
+                                                "pulse": false,
+                                                "target": false,
+                                                "id": "vimNNf"
+                                            }
+                                        }
+                                    ],
+                                    "position": {
+                                        "x": 0,
+                                        "y": 0
+                                    },
+                                    "chosen": false,
+                                    "selected": false,
+                                    "options": {
+                                        "show_back": false,
+                                        "show_progress": false,
+                                        "show_logo": false
+                                    }
+                                },
+                                {
+                                    "id": "93yJIN",
+                                    "title": "PG02",
+                                    "layers": [
+                                        {
+                                            "id": "A0o9XV",
+                                            "title": "Imagem",
+                                            "icon": "fa-image",
+                                            "type": "image",
+                                            "design": [
+                                            ],
+                                            "content": {
+                                                "image": {
+                                                    "src": "https://d9aloqs890lqz.cloudfront.net/uploads/2070/29-08-2024/y5hte-noticia-copiando.png",
+                                                    "type": "image"
+                                                },
+                                                "id": "7K2bAJ",
+                                                "name": "L3KObq"
+                                            }
+                                        },
+                                        {
+                                            "id": "VJACoJ",
+                                            "title": "Botão",
+                                            "icon": "fa-rectangle-wide",
+                                            "type": "button",
+                                            "design": {
+                                                "style": "success",
+                                                "pulse": true,
+                                                "horizontalAlign": "mx-auto",
+                                                "bubble": true,
+                                                "cols": "12"
+                                            },
+                                            "content": {
+                                                "name": "v4ygXU",
+                                                "type": "next",
+                                                "label": "Continuar",
+                                                "destination": "k2JSTU",
+                                                "pulse": false,
+                                                "target": false,
+                                                "id": "bnk5PV"
+                                            }
+                                        }
+                                    ],
+                                    "position": {
+                                        "x": 288,
+                                        "y": 0
+                                    },
+                                    "chosen": false,
+                                    "selected": false,
+                                    "options": {
+                                        "show_logo": false,
+                                        "show_back": false
+                                    }
+                                },
+                                {
+                                    "id": "k2JSTU",
+                                    "title": "PG03",
+                                    "layers": [
+                                        {
+                                            "id": "ZywxBn",
+                                            "title": "Texto",
+                                            "icon": "fa-text",
+                                            "type": "text",
+                                            "design": [
+                                            ],
+                                            "content": {
+                                                "text": "\u003ch1 class=\"ql-align-center\"\u003e\u003cspan style=\"color: inherit;\"\u003eEm que estado se encontra hoje?\u003c/span\u003e\u003c/h1\u003e",
+                                                "id": "MBVGFs",
+                                                "name": "9v4KSn"
+                                            }
+                                        },
+                                        {
+                                            "id": "WYKqUx",
+                                            "title": "Opções",
+                                            "icon": "fa-clipboard-list-check",
+                                            "type": "options",
+                                            "design": {
+                                                "background": "default",
+                                                "icon": "none",
+                                                "horizontalAlign": "mx-auto",
+                                                "border": "border-[2px]",
+                                                "shadow": "shadow-md hover:shadow-lg"
+                                            },
+                                            "content": {
+                                                "name": "opcoes_74fVG5",
+                                                "cols": "grid-cols-1",
+                                                "orientation": "horizontal",
+                                                "order": "reverse",
+                                                "required": true,
+                                                "options": [
+                                                    {
+                                                        "id": "RdZ1Wi",
+                                                        "image": {
+                                                            "type": "emoji",
+                                                            "src": "😰"
+                                                        },
+                                                        "label": "\u003cp\u003eAtualmente, Desempregado\u003c/p\u003e",
+                                                        "destination": "45h2tk",
+                                                        "chosen": false,
+                                                        "selected": false
+                                                    },
+                                                    {
+                                                        "id": "dg3Kce",
+                                                        "image": {
+                                                            "type": "emoji",
+                                                            "src": "😁"
+                                                        },
+                                                        "label": "\u003cp\u003eEstou feliz com meu emprego\u003c/p\u003e",
+                                                        "destination": "45h2tk",
+                                                        "chosen": false,
+                                                        "selected": false},
+                                                        {
+                                                            "id": "qsUcW9",
+                                                            "label": "\u003cp\u003eEstou Empregado, porém preciso de mais dinheiro\u003c/p\u003e",
+                                                            "image": {
+                                                                "src": "🤑",
+                                                                "type": "emoji"
+                                                            },
+                                                            "chosen": false,
+                                                            "selected": false,
+                                                            "destination": "45h2tk"
+                                                        }
+                                                    ],
+                                                    "id": "sEmHai"
+                                                }
+                                            }
+                                        ],
+                                        "position": {
+                                            "x": 576,
+                                            "y": 0
+                                        },
+                                        "chosen": false,
+                                        "selected": false,
+                                        "options": {
+                                            "show_logo": false,
+                                            "show_back": false
+                                        }},
+                                        {
+                                            "id": "45h2tk",
+                                            "title": "Cópia - PG04",
+                                            "layers": [
+                                                {
+                                                    "id": "kc4qfb",
+                                                    "title": "Texto",
+                                                    "icon": "fa-text",
+                                                    "type": "text",
+                                                    "design": [
+                                                    ],
+                                                    "content": {
+                                                        "text": "\u003ch1 class=\"ql-align-center\"\u003e\u003cspan style=\"color: inherit;\"\u003eQuanto tempo livre tem no seu dia?\u003c/span\u003e\u003c/h1\u003e",
+                                                        "id": "6XbLir",
+                                                        "name": "4p3IUJ"
+                                                    }
+                                                },
+                                                {
+                                                    "id": "Ia5IHk",
+                                                    "title": "Opções",
+                                                    "icon": "fa-clipboard-list-check",
+                                                    "type": "options",
+                                                    "design": {
+                                                        "background": "default",
+                                                        "border": "border-[2px]",
+                                                        "shadow": "shadow-lg hover:shadow-xl"
+                                                    },
+                                                    "content": {
+                                                        "name": "opcoes_ZmPyF6",
+                                                        "cols": "grid-cols-1",
+                                                        "orientation": "horizontal",
+                                                        "order": "reverse",
+                                                        "required": true,
+                                                        "options": [
+                                                            {
+                                                                "id": "IyPt2l",
+                                                                "image": {
+                                                                    "type": "emoji",
+                                                                    "src": "🕒"
+                                                                },
+                                                                "label": "\u003cp\u003e1 Hora\u003c/p\u003e",
+                                                                "destination": "RUkMvs",
+                                                                "chosen": false,
+                                                                "selected": false
+                                                            },
+                                                            {
+                                                                "id": "FWmaTj",
+                                                                "image": {
+                                                                    "type": "emoji",
+                                                                    "src": "🕒"
+                                                                },
+                                                                "label": "\u003cp\u003e2 Horas\u003c/p\u003e",
+                                                                "destination": "DHaRcA",
+                                                                "chosen": false,
+                                                                "selected": false
+                                                            },
+                                                            {
+                                                                "id": "5UiSl1",
+                                                                "label": "\u003cp\u003e3 Horas ou Mais\u003c/p\u003e",
+                                                                "image": {
+                                                                    "src": "🕒",
+                                                                    "type": "emoji"
+                                                                },
+                                                                "chosen": false,
+                                                                "selected": false,
+                                                                "destination": "GyriQ8"
+                                                            }
+                                                        ],
+                                                        "id": "JMNnDG",
+                                                        "awaitSubmit": false
+                                                    }
+                                                }
+                                            ],
+                                            "position": {
+                                                "x": 1058.3182481751826,
+                                                "y": -335.1733055265902
+                                            },
+                                            "chosen": false,
+                                            "selected": false,
+                                            "options": {
+                                                "show_logo": false,
+                                                "show_progress": true,
+                                                "show_back": false
+                                            }
+                                        },
+                                        {
+                                            "id": "RUkMvs",
+                                            "title": "1hora livre",
+                                            "layers": [
+                                                {
+                                                    "id": "BXqNzy",
+                                                    "title": "Texto",
+                                                    "icon": "fa-text",
+                                                    "type": "text",
+                                                    "design": [
+                                                    ],
+                                                    "content": {
+                                                        "text": "\u003ch1 class=\"ql-align-center\"\u003e\u003cspan style=\"color: inherit;\"\u003eCom 1 hora por dia já é possível fazer R$100 todos os dias\u003c/span\u003e\u003c/h1\u003e\u003cp class=\"ql-align-center\"\u003e\u003cspan style=\"color: inherit;\"\u003eIsso já te ajudaria hoje?\u003c/span\u003e\u003c/p\u003e",
+                                                        "id": "9OpWl6",
+                                                        "name": "34a8M2"
+                                                    }
+                                                },
+                                                {
+                                                    "id": "UlJqJd",
+                                                    "title": "Opções",
+                                                    "icon": "fa-clipboard-list-check",
+                                                    "type": "options",
+                                                    "design": [
+                                                    ],
+                                                    "content": {
+                                                        "name": "opcoes_tdPMr0",
+                                                        "cols": "grid-cols-1",
+                                                        "orientation": "horizontal",
+                                                        "order": "reverse",
+                                                        "required": false,
+                                                        "options": [
+                                                            {
+                                                                "id": "IUtBdY",
+                                                                "image": {
+                                                                    "type": "emoji",
+                                                                    "src": "👍🏻"
+                                                                },
+                                                                "label": "\u003ch3 class=\"ql-align-center\"\u003e\u003cstrong\u003eSim,\u0026nbsp;\u003c/strong\u003eSeria ótimo\u003c/h3\u003e",
+                                                                "destination": "BfQg0M",
+                                                                "chosen": false,
+                                                                "selected": false
+                                                            },
+                                                            {
+                                                                "id": "B522tZ",
+                                                                "image": {
+                                                                    "type": "emoji",
+                                                                    "src": "🙌🏻"
+                                                                },
+                                                                "label": "\u003cp\u003e\u003cspan style=\"color: inherit;\"\u003eJá consigo colocar as contas em\u003c/span\u003e\u003cspan style=\"color: rgb(255, 255, 255);\"\u003e\u0026nbsp;\u003c/span\u003e\u003c/p\u003e",
+                                                                "destination": "BfQg0M",
+                                                                "chosen": false,
+                                                                "selected": false
+                                                            }
+                                                        ],
+                                                        "id": "OMIUp5",
+                                                        "multiple": false
+                                                    }
+                                                }
+                                            ],
+                                            "position": {
+                                                "x": 1850.7194994786237,
+                                                "y": -541.027904066736
+                                            },
+                                            "chosen": false,
+                                            "selected": false,
+                                            "options": {
+                                                "show_logo": false,
+                                                "show_progress": true,
+                                                "show_back": false
+                                            }
+                                        },
+                                        {
+                                            "id": "DHaRcA",
+                                            "title": "Cópia - 2hora livre",
+                                            "layers": [
+                                                {
+                                                    "id": "LN7jqi",
+                                                    "title": "Texto",
+                                                    "icon": "fa-text",
+                                                    "type": "text",
+                                                    "design": [
+                                                    ],
+                                                    "content": {
+                                                        "text": "\u003ch1 class=\"ql-align-center\"\u003e\u003cspan style=\"color: inherit;\"\u003eCom 2 horas por dia já é possível fazer R$100 todos os dias\u003c/span\u003e\u003c/h1\u003e\u003cp class=\"ql-align-center\"\u003e\u003cspan style=\"color: inherit;\"\u003eIsso já te ajudaria hoje?\u003c/span\u003e\u003c/p\u003e",
+                                                        "id": "n4BFja",
+                                                        "name": "iQWrsR"
+                                                    }
+                                                },
+                                                {"id": "JiHUWC",
+                                                "title": "Opções",
+                                                "icon": "fa-clipboard-list-check",
+                                                "type": "options",
+                                                "design": [
+                                                ],
+                                                "content": {
+                                                    "name": "opcoes_ORFhIA",
+                                                    "cols": "grid-cols-1",
+                                                    "orientation": "horizontal",
+                                                    "order": "reverse",
+                                                    "required": false,
+                                                    "options": [
+                                                        {
+                                                            "id": "QzRdx4",
+                                                            "image": {
+                                                                "type": "emoji",
+                                                                "src": "👍🏻"
+                                                            },
+                                                            "label": "\u003ch3 class=\"ql-align-center\"\u003e\u003cstrong\u003eSim,\u0026nbsp;\u003c/strong\u003eSeria ótimo\u003c/h3\u003e",
+                                                            "destination": "BfQg0M",
+                                                            "chosen": false,
+                                                            "selected": false
+                                                        },
+                                                        {
+                                                            "id": "SMfISW",
+                                                            "image": {
+                                                                "type": "emoji",
+                                                                "src": "🙌🏻"
+                                                            },
+                                                            "label": "\u003cp\u003e\u003cspan style=\"color: inherit;\"\u003eJá consigo colocar as contas em\u003c/span\u003e\u003cspan style=\"color: rgb(255, 255, 255);\"\u003e\u0026nbsp;\u003c/span\u003e\u003c/p\u003e",
+                                                            "destination": "BfQg0M",
+                                                            "chosen": false,
+                                                            "selected": false
+                                                        }
+                                                    ],
+                                                    "id": "yWBqAw",
+                                                    "multiple": false
+                                                }
+                                            }
+                                        ],
+                                        "position": {
+                                            "x": 2206.185610010428,
+                                            "y": -499.8732012513034
+                                        },
+                                        "chosen": false,
+                                        "selected": false,
+                                        "options": {
+                                            "show_logo": false,
+                                            "show_progress": true,
+                                            "show_back": false
+                                        }
+                                    },
+                                    {
+                                        "id": "GyriQ8",
+                                        "title": " - 3hora livre",
+                                        "layers": [
+                                            {
+                                                "id": "PsSsJ1",
+                                                "title": "Texto",
+                                                "icon": "fa-text",
+                                                "type": "text",
+                                                "design": [
+                                                ],
+                                                "content": {
+                                                    "text": "\u003ch1 class=\"ql-align-center\"\u003e\u003cspan style=\"color: inherit;\"\u003eCom 3 horas por dia já é possível fazer R$100 todos os dias\u003c/span\u003e\u003c/h1\u003e\u003cp class=\"ql-align-center\"\u003e\u003cspan style=\"color: inherit;\"\u003eIsso já te ajudaria hoje?\u003c/span\u003e\u003c/p\u003e",
+                                                    "id": "ffA5i1",
+                                                    "name": "Eo0zpw"
+                                                }
+                                            },
+                                            {
+                                                "id": "pmm0oI",
+                                                "title": "Opções",
+                                                "icon": "fa-clipboard-list-check",
+                                                "type": "options",
+                                                "design": [
+                                                ],
+                                                "content": {
+                                                    "name": "opcoes_3oUcTJ",
+                                                    "cols": "grid-cols-1",
+                                                    "orientation": "horizontal",
+                                                    "order": "reverse",
+                                                    "required": false,
+                                                    "options": [
+                                                        {
+                                                            "id": "dCBDAN",
+                                                            "image": {
+                                                                "type": "emoji",
+                                                                "src": "👍🏻"
+                                                            },
+                                                            "label": "\u003ch3 class=\"ql-align-center\"\u003e\u003cstrong\u003eSim,\u0026nbsp;\u003c/strong\u003eSeria ótimo\u003c/h3\u003e",
+                                                            "destination": "BfQg0M",
+                                                            "chosen": false,
+                                                            "selected": false
+                                                        },
+                                                        {
+                                                            "id": "ftFvC1",
+                                                            "image": {
+                                                                "type": "emoji",
+                                                                "src": "🙌🏻"
+                                                            },
+                                                            "label": "\u003cp\u003e\u003cspan style=\"color: inherit;\"\u003eJá consigo colocar as contas em\u003c/span\u003e\u003cspan style=\"color: rgb(255, 255, 255);\"\u003e\u0026nbsp;\u003c/span\u003e\u003c/p\u003e",
+                                                            "destination": "BfQg0M",
+                                                            "chosen": false,
+                                                            "selected": false
+                                                        }
+                                                    ],
+                                                    "id": "pDlj9Y",
+                                                    "multiple": false
+                                                }
+                                            }
+                                        ],
+                                        "position": {
+                                            "x": 2579.2700729927005,
+                                            "y": -498.5359749739311
+                                        },
+                                        "chosen": false,
+                                        "selected": false,
+                                        "options": {
+                                            "show_logo": false,
+                                            "show_progress": true,
+                                            "show_back": false
+                                        }
+                                    },
+                                    {
+                                        "id": "BfQg0M",
+                                        "title": "Cópia - Cópia - PG04",
+                                        "layers": [
+                                            {
+                                                "id": "uTXbyn",
+                                                "title": "Texto",
+                                                "icon": "fa-text",
+                                                "type": "text",
+                                                "design": [
+                                                ],
+                                                "content": {
+                                                    "text": "\u003ch1 class=\"ql-align-center\"\u003eEstá preparado para fazer de R$ 100 a R$ 300 todos os dias?\u003c/h1\u003e\u003cp class=\"ql-align-center\"\u003eO que fará com seus \u003cstrong\u003eprimeiros ganhos?\u003c/strong\u003e\u003c/p\u003e",
+                                                    "id": "ccprNV",
+                                                    "name": "pSvMrG"
+                                                }
+                                            },
+                                            {
+                                                "id": "VUARU4",
+                                                "title": "Opções",
+                                                "icon": "fa-clipboard-list-check",
+                                                "type": "options",
+                                                "design": {
+                                                    "background": "default",
+                                                    "shadow": "shadow-lg hover:shadow-xl",
+                                                    "border": "border-[2px]"
+                                                },
+                                                "content": {
+                                                    "name": "opcoes_eqLrLk",
+                                                    "cols": "grid-cols-1",
+                                                    "orientation": "horizontal",
+                                                    "order": "reverse",
+                                                    "required": true,
+                                                    "options": [
+                                                        {
+                                                            "id": "1Pe7yY",
+                                                            "image": {
+                                                                "type": "emoji",
+                                                                "src": "✅"
+                                                            },
+                                                            "label": "\u003cp\u003eSim, Vou deixar as contas em dia\u003c/p\u003e",
+                                                            "destination": "next",
+                                                            "chosen": false,
+                                                            "selected": false
+                                                        },
+                                                        {
+                                                            "id": "2LblMR",
+                                                            "image": {
+                                                                "type": "emoji",
+                                                                "src": "🛒"
+                                                            },
+                                                            "label": "\u003cp\u003eSim, Farei a dispensa do mês\u003c/p\u003e",
+                                                            "destination": "F5V31K",
+                                                            "chosen": false,
+                                                            "selected": false
+                                                        },
+                                                        {
+                                                            "id": "uqxNQ2",
+                                                            "label": "\u003cp\u003eSim, Irei me presentear\u003c/p\u003e",
+                                                            "image": {
+                                                                "src": "🎁",
+                                                                "type": "emoji"
+                                                            },
+                                                            "chosen": false,
+                                                            "selected": false,
+                                                            "destination": "UsDXHb"
+                                                        }
+                                                    ],
+                                                    "id": "VRuWbT"
+                                                }
+                                            }
+                                        ],
+                                        "position": {
+                                            "x": 1494.8287799791449,
+                                            "y": 222.90385818561003
+                                        },
+                                        "chosen": false,
+                                        "selected": false,
+                                        "options": {
+                                            "show_logo": false,
+                                            "show_progress": true,
+                                            "show_back": false
+                                        }
+                                    },
+                                    {
+                                        "id": "OIh5yp",
+                                        "title": "PG DEPOIMENTO",
+                                        "layers": [
+                                            {
+                                                "id": "KNrIK7",
+                                                "title": "Texto",
+                                                "icon": "fa-text",
+                                                "type": "text",
+                                                "design": [
+                                                ],
+                                                "content": {
+                                                    "text": "\u003ch1 class=\"ql-align-center\"\u003eVárias pessoas já estão usando isso\u003c/h1\u003e\u003cp class=\"ql-align-center\"\u003eOlha o quanto estão fazendo\u0026nbsp;👇🏼👇🏼\u003c/p\u003e",
+                                                    "id": "GRtoWn",
+                                                    "name": "X8NXrA"
+                                                }
+                                            },
+                                            {
+                                                "id": "XXIaxn",
+                                                "title": "Vídeo",
+                                                "icon": "fa-film",
+                                                "type": "video",
+                                                "design": {
+                                                    "ratio": "mobile",
+                                                    "cols": "7",
+                                                    "horizontalAlign": "mx-auto"
+                                                },
+                                                "content": {
+                                                    "title": "",
+                                                    "description": "",
+                                                    "id": "kX61Hm",
+                                                    "name": "oR4d8Q",
+                                                    "video": "\u003cscript src=\"https://cdn.converteai.net/lib/js/smartplayer/v1/sdk.min.js\" data-id=\"64f9ec6ae1c7560009bd7045\"\u003e\u003c/script\u003e \u003cdiv id=\"ifr_64f9ec6ae1c7560009bd7045_wrapper\" style=\"margin: 0 auto; width: 100%\"\u003e \u003cdiv style=\"padding:181.8181818181818% 0 0 0;position:relative;\" id=\"ifr_64f9ec6ae1c7560009bd7045_aspect\"\u003e \u003ciframe frameborder=\"0\" allowfullscreen src=\"https://scripts.converteai.net/4ca3c934-f413-4603-9b05-bbfa812db871/players/64f9ec6ae1c7560009bd7045/embed.html\" id=\"ifr_64f9ec6ae1c7560009bd7045\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;\" referrerpolicy=\"origin\"\u003e\u003c/iframe\u003e \u003c/div\u003e \u003c/div\u003e \u003cstyle\u003e .elementor-element:has(#ifr_64f9ec6ae1c7560009bd7045_wrapper) { width: 100%; } \u003c/style\u003e"
+                                                }
+                                            },
+                                            {
+                                                "id": "PKF93Y",
+                                                "title": "Botão",
+                                                "icon": "fa-rectangle-wide",
+                                                "type": "button",
+                                                "design": {
+                                                    "style": "success",
+                                                    "pulse": true,
+                                                    "bubble": true,
+                                                    "cols": "12",
+                                                    "horizontalAlign": "mx-auto"
+                                                },
+                                                "content": {
+                                                    "name": "5L5nq1",
+                                                    "type": "next",
+                                                    "label": "Também quero ganhar",
+                                                    "destination": "next",
+                                                    "pulse": false,
+                                                    "target": false,
+                                                    "id": "PvVQsI"
+                                                }
+                                            }
+                                        ],
+                                        "position": {
+                                            "y": 322.90385818561003,
+                                            "x": 1594.8287799791449
+                                        },
+                                        "chosen": false,
+                                        "selected": false,
+                                        "options": {
+                                            "show_logo": false,
+                                            "show_progress": true,
+                                            "show_back": false
+                                        }
+                                    },
+                                    {
+                                        "id": "Cg94We",
+                                        "title": "analisando",
+                                        "layers": [
+                                            {
+                                                "id": "QgsJir",
+                                                "title": "Loading",
+                                                "icon": "fa-circle-notch",
+                                                "type": "loading",
+                                                "design": {
+                                                    "style": "default",
+                                                    "horizontalAlign": "mx-auto"
+                                                },
+                                                "content": {
+                                                    "title": "Liberando acesso",
+                                                    "name": "zZogXX",
+                                                    "description": "\u003cp class=\"ql-align-center\"\u003eAnalisando Respostas...\u003c/p\u003e",
+                                                    "seconds": 4,
+                                                    "starts": 0,
+                                                    "destination": "next",
+                                                    "show_title": true,
+                                                    "show_percent": true,
+                                                    "show_progress": true,
+                                                    "id": "RqsMtF"
+                                                }
+                                            }
+                                        ],
+                                        "position": {
+                                            "x": 2304,
+                                            "y": 0
+                                        },
+                                        "chosen": false,
+                                        "selected": false,
+                                        "options": {
+                                            "show_logo": false,
+                                            "show_back": false,
+                                            "show_progress": false
+                                        }
+                                    },
+                                    {
+                                        "id": "tbqrHD",
+                                        "title": "pronto",
+                                        "layers": [
+                                            {
+                                                "id": "qJL3GM",
+                                                "title": "Texto",
+                                                "icon": "fa-text",
+                                                "type": "text",
+                                                "design": [
+                                                ],
+                                                "content": {
+                                                    "text": "\u003ch1 class=\"ql-align-center\"\u003eAcesso Liberado\u003c/h1\u003e\u003cp class=\"ql-align-center\"\u003eBaseado em suas respostas você merece conhecer esse \u003cstrong\u003esistema inovador\u003c/strong\u003e que \u003cstrong\u003equase ninguém conhece.\u003c/strong\u003e\u003c/p\u003e",
+                                                    "id": "Ue2Z9W",
+                                                    "name": "EaXU0b"
+                                                }
+                                            },
+                                            {
+                                                "id": "YBW6n8",
+                                                "title": "Alerta",
+                                                "icon": "fa-exclamation-triangle",
+                                                "type": "alert",
+                                                "design": {
+                                                    "style": "success"
+                                                },
+                                                "content": {
+                                                    "text": "\u003cp\u003e\u003cspan style=\"color: rgb(9, 9, 11);\"\u003eVeja onde você pode chegar usando esse sistema \u003c/span\u003e\u003cstrong style=\"color: rgb(9, 9, 11);\"\u003etodos os dias\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e\u003cli\u003e\u003cspan style=\"color: rgb(9, 9, 11);\"\u003eEm até 30 dias você poderá ter feito \u003c/span\u003e\u003cstrong style=\"color: rgb(9, 9, 11);\"\u003eaté R$ 5 Mil ou mais...\u003c/strong\u003e\u003c/li\u003e\u003c/ul\u003e",
+                                                    "id": "idYMGT",
+                                                    "name": "3BPgpr"
+                                                }
+                                            },
+                                            {
+                                                "id": "poCg6r",
+                                                "title": "Cartesiano",
+                                                "icon": "fa-chart-bar",
+                                                "type": "chart",
+                                                "design": {
+                                                    "area": true,
+                                                    "axisY": true,
+                                                    "axisX": true
+                                                },
+                                                "content": {
+                                                    "id": "O9HE11",
+                                                    "title": "",
+                                                    "datas": [
+                                                        {
+                                                            "id": "Ba3jTD",
+                                                            "legend": "R$ 1.000",
+                                                            "value": 10,
+                                                            "tooltip": "7 Dias",
+                                                            "chosen": false,
+                                                            "selected": false
+                                                        },
+                                                        {
+                                                            "id": "ncrOuo",
+                                                            "legend": "R$ 3.000",
+                                                            "value": 30,
+                                                            "tooltip": "15 Dias",
+                                                            "featured": true,
+                                                            "chosen": false,
+                                                            "selected": false
+                                                        },
+                                                        {
+                                                            "id": "Mfg8HO",
+                                                            "legend": "R$ 5.000",
+                                                            "value": 75,
+                                                            "tooltip": "30Dias",
+                                                            "chosen": false,
+                                                            "selected": false,
+                                                            "featured": false
+                                                        }
+                                                    ],
+                                                    "name": "YYjgVo"
+                                                }
+                                            },
+                                            {
+                                                "id": "CjdMnn",
+                                                "title": "Texto",
+                                                "icon": "fa-text",
+                                                "type": "text",
+                                                "design": [
+                                                ],
+                                                "content": {
+                                                    "text": "\u003ch1 class=\"ql-align-center\"\u003eAcesse Agora\u003c/h1\u003e\u003cp class=\"ql-align-center\"\u003eToque no botão abaixo que vou te mostrar em um \u003cstrong\u003evídeo de 5 minutos\u003c/strong\u003e como copiar e colar mensagens e fazer um \u003cstrong\u003ebolada todos os meses\u0026nbsp;\u003c/strong\u003e\u003c/p\u003e",
+                                                    "id": "dig8FM",
+                                                    "name": "Pfp5mM"
+                                                }
+                                            },
+                                            {
+                                                "id": "gSTYqe",
+                                                "title": "Botão",
+                                                "icon": "fa-rectangle-wide",
+                                                "type": "button",
+                                                "design": {
+                                                    "style": "success",
+                                                    "pulse": true,
+                                                    "bubble": true
+                                                },
+                                                "content": {
+                                                    "name": "eXr4jI",
+                                                    "type": "redirect",
+                                                    "label": "ASSISTIR AGORA",
+                                                    "destination": "https://clubdolucro.com/lead-cp-msg/",
+                                                    "pulse": false,
+                                                    "target": true,
+                                                    "id": "Ud5464"
+                                                }
+                                            }
+                                        ],
+                                        "position": {
+                                            "x": 2592,
+                                            "y": 0
+                                        },
+                                        "chosen": false,
+                                        "selected": false,
+                                        "options": {
+                                            "show_logo": false,
+                                            "show_progress": false,
+                                            "show_back": false
+                                        }
+                                    }
+                                ],
+                                "design": {
+                                    "logo": {
+                                        "type": "image"
+                                    },
+                                    "themeColor": "#000000",
+                                    "contentColor": "#000000",
+                                    "titleColor": "#000000",
+                                    "backgroundColor": "#ffffff",
+                                    "featuredFont": "inter",
+                                    "contentFont": "inter",
+                                    "titleSize": 0.5,
+                                    "contentSize": 16,
+                                    "rounded": "rounded-2xl",
+                                    "elementSize": "56px"
+                                },
+                                "navigation": [
+                                ],
+                                "scripts": {
+                                    "header": "\u003c!-- Google tag (gtag.js) --\u003e\n\u003cscript async src=\"https://www.googletagmanager.com/gtag/js?id=G-EFDGTVQGJP\"\u003e\u003c/script\u003e\n\u003cscript\u003e\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-EFDGTVQGJP');\n\u003c/script\u003e\n\n\u003c!-- Google Tag Manager --\u003e\n\u003cscript\u003e(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\nnew Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\nj=d.createElement(s),dl=l!='dataLayer'?'\u0026l='+l:'';j.async=true;j.src=\n'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n})(window,document,'script','dataLayer','GTM-55Q39577');\u003c/script\u003e\n\u003c!-- End Google Tag Manager --\u003e",
+                                    "body": "\u003c!-- Google Tag Manager (noscript) --\u003e\n\u003cnoscript\u003e\u003ciframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-55Q39577\"\nheight=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"\u003e\u003c/iframe\u003e\u003c/noscript\u003e\n\u003c!-- End Google Tag Manager (noscript) --\u003e",
+                                    "footer": "\u003cscript\u003e\n   let prefix = [\"https://clubdolucro.com\", \"https://go.perfectpay.com.br\", \"https://checkout.payt.com.br\"];\n\nfunction getParams() {\n    let t = \"\",\n        e = window.top.location.href,\n        r = new URL(e);\n    if (null != r) {\n        let a = r.searchParams.get(\"utm_source\"),\n            n = r.searchParams.get(\"utm_medium\"),\n            o = r.searchParams.get(\"utm_campaign\"),\n            m = r.searchParams.get(\"utm_term\"),\n            c = r.searchParams.get(\"utm_content\"); - 1 !== e.indexOf(\"?\") \u0026\u0026 (t = `\u0026sck=${a}|${n}|${o}|${m}|${c}`), console.log(t)\n    }\n    return t\n}! function() {\n    var t = new URLSearchParams(window.location.search);\n    t.toString() \u0026\u0026 document.querySelectorAll(\"a\").forEach(function(e) {\n        for (let r = 0; r \u003c prefix.length; r++) - 1 !== e.href.indexOf(prefix[r]) \u0026\u0026 (-1 === e.href.indexOf(\"?\") ? e.href += \"?\" + t.toString() + getParams() : e.href += \"\u0026\" + t.toString() + getParams())\n    })\n}();\nconsole.log('%cScript de rastreamento de vendas desenvolvido pela Comunidade NOD - Dericson Calari e Samuel Choairy', 'font-size:20px;color:yellow;');\n\u003c/script\u003e"
+                                },
+                                "webhook": [
+                                ],
+                                "seo": [
+                                ]
+                            }
+                        },
+                        "__N_SSG": true
+                    },
+                    "page": "/[...all]",
+                    "query": {
+                        "all": [
+                            "club-copiando-msg"
+                        ]
+                    },
+                    "buildId": "NgTb2UOIgFnWIujrsz1_9",
+                    "isFallback": false,
+                    "isExperimentalCompile": false,
+                    "gsp": true,
+                    "scriptLoader": [
+                    ]
+                }</script>
+            <script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"rayId":"8e1b750f2de9debe","serverTiming":{"name":{"cfExtPri":true,"cfL4":true,"cfSpeedBrain":true,"cfCacheStatus":true}},"version":"2024.10.5","token":"f3f2fa4cdf584d8490301dae7235aa09"}' crossorigin="anonymous"></script>
+        </body>
+    </html>
